@@ -1,0 +1,3930 @@
+[
+    {
+        "name": "wave of darkness easy",
+        "category": [
+            "writhing melody",
+            "easy",
+            "kh 0.2"
+        ],
+        "requires": [
+            "wave of darkness"
+        ]
+    },
+    {
+        "name": "wave of darkness medium",
+        "category": [
+            "writhing melody",
+            "medium",
+            "kh 0.2"
+        ],
+        "requires": [
+            "wave of darkness"
+        ]
+    },
+    {
+        "name": "wave of darkness hard",
+        "category": [
+            "writhing melody",
+            "hard",
+            "kh 0.2"
+        ],
+        "requires": [
+            "wave of darkness"
+        ]
+    },
+    {
+        "name": "destiny islands easy",
+        "category": [
+            "destiny islands",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "destiny islands"
+        ]
+    },
+    {
+        "name": "destiny islands medium",
+        "category": [
+            "destiny islands",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "destiny islands"
+        ]
+    },
+    {
+        "name": "destiny islands hard",
+        "category": [
+            "destiny islands",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "destiny islands"
+        ]
+    },
+    {
+        "name": "bustin' up the beach easy",
+        "category": [
+            "destiny islands",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "bustin' up the beach"
+        ]
+    },
+    {
+        "name":"bustin' up the beach medium",
+        "category": [
+            "destiny islands",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "bustin' up the beach"
+        ]
+    },
+    {
+        "name":"bustin' up the beach hard",
+        "category": [
+            "destiny islands",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "bustin' up the beach"
+        ]
+    },
+    {
+        "name": "night of fate easy",
+        "category": [
+            "melody of fate",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "night of fate"
+        ]
+    },
+    {
+        "name": "night of fate medium",
+        "category": [
+            "melody of fate",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "night of fate"
+        ]
+    },
+    {
+        "name": "night of fate hard",
+        "category": [
+            "melody of fate",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "night of fate"
+        ]
+    },
+    {
+        "name": "destiny's force easy",
+        "category": [
+            "melody of destruction",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "destiny's force"
+        ]
+    },
+    {
+        "name": "destiny's force medium",
+        "category": [
+            "melody of destruction",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "destiny's force"
+        ]
+    },
+    {
+        "name": "destiny's force hard",
+        "category": [
+            "melody of destruction",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "destiny's force"
+        ]
+    },
+    {
+        "name": "traverse town easy",
+        "category": [
+            "traverse town",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "traverse town"
+        ]
+    },
+    {
+        "name": "traverse town medium",
+        "category": [
+            "traverse town",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "traverse town"
+        ]
+    },
+    {
+        "name": "traverse town hard",
+        "category": [
+            "traverse town",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "traverse town"
+        ]
+    },
+    {
+        "name": "hand in hand easy",
+        "category": [
+            "traverse town",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "hand in hand"
+        ]
+    },
+    {
+        "name": "hand in hand medium",
+        "category": [
+            "traverse town",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "hand in hand"
+        ]
+    },
+    {
+        "name": "hand in hand hard",
+        "category": [
+            "traverse town",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "hand in hand"
+        ]
+    },
+    {
+        "name": "shrouding dark cloud easy",
+        "category": [
+            "melody of beginnings",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "shrouding dark cloud"
+        ]
+    },
+    {
+        "name": "shrouding dark cloud medium",
+        "category": [
+            "melody of beginnings",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "shrouding dark cloud"
+        ]
+    },
+    {
+        "name": "shrouding dark cloud hard",
+        "category": [
+            "melody of beginnings",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "shrouding dark cloud"
+        ]
+    },
+    {
+        "name": "welcome to wonderland easy",
+        "category": [
+            "wonderland",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "welcome to wonderland"
+        ]
+    },
+    {
+        "name": "welcome to wonderland medium",
+        "category": [
+            "wonderland",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "welcome to wonderland"
+        ]
+    },
+    {
+        "name": "welcome to wonderland hard",
+        "category": [
+            "wonderland",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "welcome to wonderland"
+        ]
+    },
+    {
+        "name": "to our surprise easy",
+        "category": [
+            "wonderland",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "to our surprise"
+        ]
+    },
+    {
+        "name": "to our surprise medium",
+        "category": [
+            "wonderland",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "to our surprise"
+        ]
+    },
+    {
+        "name": "to our surprise hard",
+        "category": [
+            "wonderland",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "to our surprise"
+        ]
+    },
+    {
+        "name": "a day in agrabah easy",
+        "category": [
+            "agrabah",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "a day in agrabah"
+        ]
+    },
+    {
+        "name": "a day in agrabah medium",
+        "category": [
+            "agrabah",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "a day in agrabah"
+        ]
+    },
+    {
+        "name": "a day in agrabah hard",
+        "category": [
+            "agrabah",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "a day in agrabah"
+        ]
+    },
+    {
+        "name": "arabian dream easy",
+        "category": [
+            "agrabah",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "arabian dream"
+        ]
+    },
+    {
+        "name": "arabian dream medium",
+        "category": [
+            "agrabah",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "arabian dream"
+        ]
+    },
+    {
+        "name": "arabian dream hard",
+        "category": [
+            "agrabah",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "arabian dream"
+        ]
+    },
+    {
+        "name": "under the sea easy",
+        "category": [
+            "atlantica",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "under the sea"
+        ]
+    },
+    {
+        "name": "under the sea medium",
+        "category": [
+            "atlantica",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "under the sea"
+        ]
+    },
+    {
+        "name": "under the sea hard",
+        "category": [
+            "atlantica",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "under the sea"
+        ]
+    },
+    {
+        "name": "an adventure in atlantica easy",
+        "category": [
+            "atlantica",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "an adventure in atlantica"
+        ]
+    },
+    {
+        "name": "an adventure in atlantica medium",
+        "category": [
+            "atlantica",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "an adventure in atlantica"
+        ]
+    },
+    {
+        "name": "an adventure in atlantica hard",
+        "category": [
+            "atlantica",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "an adventure in atlantica"
+        ]
+    },
+    {
+        "name": "this is halloween easy",
+        "category": [
+            "halloween town",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "this is halloween"
+        ]
+    },
+    {
+        "name": "this is halloween medium",
+        "category": [
+            "halloween town",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "this is halloween"
+        ]
+    },
+    {
+        "name": "this is halloween hard",
+        "category": [
+            "halloween town",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "this is halloween"
+        ]
+    },
+    {
+        "name": "spooks of halloween town easy",
+        "category": [
+            "halloween town",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "spooks of halloween town"
+        ]
+    },
+    {
+        "name": "spooks of halloween town medium",
+        "category": [
+            "halloween town",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "spooks of halloween town"
+        ]
+    },
+    {
+        "name": "spooks of halloween town hard",
+        "category": [
+            "halloween town",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "spooks of halloween town"
+        ]
+    },
+    {
+        "name": "olympus coliseum easy",
+        "category": [
+            "olympus coliseum",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "olympus coliseum"
+        ]
+    },
+    {
+        "name": "olympus coliseum medium",
+        "category": [
+            "olympus coliseum",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "olympus coliseum"
+        ]
+    },
+    {
+        "name": "olympus coliseum hard",
+        "category": [
+            "olympus coliseum",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "olympus coliseum"
+        ]
+    },
+    {
+        "name": "go for it! easy",
+        "category": [
+            "olympus coliseum",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "go for it!"
+        ]
+    },
+    {
+        "name": "go for it! medium",
+        "category": [
+            "olympus coliseum",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "go for it!"
+        ]
+    },
+    {
+        "name": "go for it! hard",
+        "category": [
+            "olympus coliseum",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "go for it!"
+        ]
+    },
+    {
+        "name": "a very small wish easy",
+        "category": [
+            "monstro",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "a very small wish"
+        ]
+    },
+    {
+        "name": "a very small wish medium",
+        "category": [
+            "monstro",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "a very small wish"
+        ]
+    },
+    {
+        "name": "a very small wish hard",
+        "category": [
+            "monstro",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "a very small wish"
+        ]
+    },
+    {
+        "name": "monstrous monstro easy",
+        "category": [
+            "monstro",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "monstrous monstro"
+        ]
+    },
+    {
+        "name": "monstrous monstro medium",
+        "category": [
+            "monstro",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "monstrous monstro"
+        ]
+    },
+    {
+        "name": "monstrous monstro hard",
+        "category": [
+            "monstro",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "monstrous monstro"
+        ]
+    },
+    {
+        "name": "captain hook's pirate ship easy",
+        "category": [
+            "neverland",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "captain hook's pirate ship"
+        ]
+    },
+    {
+        "name": "captain hook's pirate ship medium",
+        "category": [
+            "neverland",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "captain hook's pirate ship"
+        ]
+    },
+    {
+        "name": "captain hook's pirate ship hard",
+        "category": [
+            "neverland",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "captain hook's pirate ship"
+        ]
+    },
+    {
+        "name": "pirate's gigue easy",
+        "category": [
+            "neverland",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "pirate's gigue"
+        ]
+    },
+    {
+        "name": "pirate's gigue medium",
+        "category": [
+            "neverland",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "pirate's gigue"
+        ]
+    },
+    {
+        "name": "pirate's gigue hard",
+        "category": [
+            "neverland",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "pirate's gigue"
+        ]
+    },
+    {
+        "name": "hollow bastion easy",
+        "category": [
+            "hollow bastion",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "hollow bastion"
+        ]
+    },
+    {
+        "name": "hollow bastion medium",
+        "category": [
+            "hollow bastion",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "hollow bastion"
+        ]
+    },
+    {
+        "name": "hollow bastion hard",
+        "category": [
+            "hollow bastion",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "hollow bastion"
+        ]
+    },
+    {
+        "name": "scherzo di notte easy",
+        "category": [
+            "hollow bastion",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "scherzo di notte"
+        ]
+    },
+    {
+        "name": "scherzo di notte medium",
+        "category": [
+            "hollow bastion",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "scherzo di notte"
+        ]
+    },
+    {
+        "name": "scherzo di notte hard",
+        "category": [
+            "hollow bastion",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "scherzo di notte"
+        ]
+    },
+    {
+        "name": "squirming evil easy",
+        "category": [
+            "wicked melody",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "squirming evil"
+        ]
+    },
+    {
+        "name": "squirming evil medium",
+        "category": [
+            "wicked melody",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "squirming evil"
+        ]
+    },
+    {
+        "name": "squirming evil hard",
+        "category": [
+            "wicked melody",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "squirming evil"
+        ]
+    },
+    {
+        "name": "end of the world easy",
+        "category": [
+            "end of the world",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "end of the world"
+        ]
+    },
+    {
+        "name": "end of the world medium",
+        "category": [
+            "end of the world",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "end of the world"
+        ]
+    },
+    {
+        "name": "end of the world hard",
+        "category": [
+            "end of the world",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "end of the world"
+        ]
+    },
+    {
+        "name": "fragments of sorrow easy",
+        "category": [
+            "end of the world",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "fragments of sorrow"
+        ]
+    },
+    {
+        "name": "fragments of sorrow medium",
+        "category": [
+            "end of the world",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "fragments of sorrow"
+        ]
+    },
+    {
+        "name": "fragments of sorrow hard",
+        "category": [
+            "end of the world",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "fragments of sorrow"
+        ]
+    },
+    {
+        "name": "guardando nel buio easy",
+        "category": [
+            "seeker of darkness",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "guardando nel buio"
+        ]
+    },
+    {
+        "name": "guardando nel buio medium",
+        "category": [
+            "seeker of darkness",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "guardando nel buio"
+        ]
+    },
+    {
+        "name": "guardando nel buio hard",
+        "category": [
+            "seeker of darkness",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "guardando nel buio"
+        ]
+    },
+    {
+        "name": "castle oblivion easy",
+        "category": [
+            "castle oblivion",
+            "easy",
+            "kh recom"
+        ],
+        "requires": [
+            "castle oblivion"
+        ]
+    },
+    {
+        "name": "castle oblivion medium",
+        "category": [
+            "castle oblivion",
+            "medium",
+            "kh recom"
+        ],
+        "requires": [
+            "castle oblivion"
+        ]
+    },
+    {
+        "name": "castle oblivion hard",
+        "category": [
+            "castle oblivion",
+            "hard",
+            "kh recom"
+        ],
+        "requires": [
+            "castle oblivion"
+        ]
+    },
+    {
+        "name": "forgotten challenge easy",
+        "category": [
+            "castle oblivion",
+            "easy",
+            "kh recom"
+        ],
+        "requires": [
+            "forgotten challenge"
+        ]
+    },
+    {
+        "name": "forgotten challenge medium",
+        "category": [
+            "castle oblivion",
+            "medium",
+            "kh recom"
+        ],
+        "requires": [
+            "forgotten challenge"
+        ]
+    },
+    {
+        "name": "forgotten challenge hard",
+        "category": [
+            "castle oblivion",
+            "hard",
+            "kh recom"
+        ],
+        "requires": [
+            "forgotten challenge"
+        ]
+    },
+    {
+        "name": "the 13th struggle easy",
+        "category": [
+            "melody without a heart",
+            "easy",
+            "kh recom"
+        ],
+        "requires": [
+            "the 13th struggle"
+        ]
+    },
+    {
+        "name": "the 13th struggle medium",
+        "category": [
+            "melody without a heart",
+            "medium",
+            "kh recom"
+        ],
+        "requires": [
+            "the 13th struggle"
+        ]
+    },
+    {
+        "name": "the 13th struggle hard",
+        "category": [
+            "melody without a heart",
+            "hard",
+            "kh recom"
+        ],
+        "requires": [
+            "the 13th struggle"
+        ]
+    },
+    {
+        "name": "the force in you easy",
+        "category": [
+            "false melody",
+            "easy",
+            "kh recom"
+        ],
+        "requires": [
+            "the force in you"
+        ]
+    },
+    {
+        "name": "the force in you medium",
+        "category": [
+            "false melody",
+            "medium",
+            "kh recom"
+        ],
+        "requires": [
+            "the force in you"
+        ]
+    },
+    {
+        "name": "the force in you hard",
+        "category": [
+            "false melody",
+            "hard",
+            "kh recom"
+        ],
+        "requires": [
+            "the force in you"
+        ]
+    },
+    {
+        "name": "lord of the castle easy",
+        "category": [
+            "melody of oblivion",
+            "easy",
+            "kh recom"
+        ],
+        "requires": [
+            "lord of the castle"
+        ]
+    },
+    {
+        "name": "lord of the castle medium",
+        "category": [
+            "melody of oblivion",
+            "medium",
+            "kh recom"
+        ],
+        "requires": [
+            "lord of the castle"
+        ]
+    },
+    {
+        "name": "lord of the castle hard",
+        "category": [
+            "melody of oblivion",
+            "hard",
+            "kh recom"
+        ],
+        "requires": [
+            "lord of the castle"
+        ]
+    },
+    {
+        "name": "lazy afternoons easy",
+        "category": [
+            "the other twilight town",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "lazy afternoons"
+        ]
+    },
+    {
+        "name": "lazy afternoons medium",
+        "category": [
+            "the other twilight town",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "lazy afternoons"
+        ]
+    },
+    {
+        "name": "lazy afternoons hard",
+        "category": [
+            "the other twilight town",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "lazy afternoons"
+        ]
+    },
+    {
+        "name": "sinister sundown easy",
+        "category": [
+            "the other twilight town",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "sinister sundown"
+        ]
+    },
+    {
+        "name": "sinister sundown medium",
+        "category": [
+            "the other twilight town",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "sinister sundown"
+        ]
+    },
+    {
+        "name": "sinister sundown hard",
+        "category": [
+            "the other twilight town",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "sinister sundown"
+        ]
+    },
+    {
+        "name": "tension rising easy",
+        "category": [
+            "melody of waking",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "tension rising"
+        ]
+    },
+    {
+        "name": "tension rising medium",
+        "category": [
+            "melody of waking",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "tension rising"
+        ]
+    },
+    {
+        "name": "tension rising hard",
+        "category": [
+            "melody of waking",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "tension rising"
+        ]
+    },
+    {
+        "name": "the afternoon streets easy",
+        "category": [
+            "twilight town",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "the afternoon streets"
+        ]
+    },
+    {
+        "name": "the afternoon streets medium",
+        "category": [
+            "twilight town",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "the afternoon streets"
+        ]
+    },
+    {
+        "name": "the afternoon streets hard",
+        "category": [
+            "twilight town",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "the afternoon streets"
+        ]
+    },
+    {
+        "name": "working together easy",
+        "category": [
+            "twilight town",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "working together"
+        ]
+    },
+    {
+        "name": "working together medium",
+        "category": [
+            "twilight town",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "working together"
+        ]
+    },
+    {
+        "name": "working together hard",
+        "category": [
+            "twilight town",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "working together"
+        ]
+    },
+    {
+        "name": "magical mystery easy",
+        "category": [
+            "mysterious tower",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "magical mystery"
+        ]
+    },
+    {
+        "name": "magical mystery medium",
+        "category": [
+            "mysterious tower",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "magical mystery"
+        ]
+    },
+    {
+        "name": "magical mystery hard",
+        "category": [
+            "mysterious tower",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "magical mystery"
+        ]
+    },
+    {
+        "name": "the home of dragons easy",
+        "category": [
+            "the land of dragons",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "the home of dragons"
+        ]
+    },
+    {
+        "name": "the home of dragons medium",
+        "category": [
+            "the land of dragons",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "the home of dragons"
+        ]
+    },
+    {
+        "name": "the home of dragons hard",
+        "category": [
+            "the land of dragons",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "the home of dragons"
+        ]
+    },
+    {
+        "name": "fields of honor easy",
+        "category": [
+            "the land of dragons",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "fields of honor"
+        ]
+    },
+    {
+        "name": "fields of honor medium",
+        "category": [
+            "the land of dragons",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "fields of honor"
+        ]
+    },
+    {
+        "name": "fields of honor hard",
+        "category": [
+            "the land of dragons",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "fields of honor"
+        ]
+    },
+    {
+        "name": "waltz of the dammed easy",
+        "category": [
+            "beast's castle",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "waltz of the dammed"
+        ]
+    },
+    {
+        "name": "waltz of the dammed medium",
+        "category": [
+            "beast's castle",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "waltz of the dammed"
+        ]
+    },
+    {
+        "name": "waltz of the dammed hard",
+        "category": [
+            "beast's castle",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "waltz of the dammed"
+        ]
+    },
+    {
+        "name": "dance of the daring easy",
+        "category": [
+            "beast's castle",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "dance of the daring"
+        ]
+    },
+    {
+        "name": "dance of the daring medium",
+        "category": [
+            "beast's castle",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "dance of the daring"
+        ]
+    },
+    {
+        "name": "dance of the daring hard",
+        "category": [
+            "beast's castle",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "dance of the daring"
+        ]
+    },
+    {
+        "name": "vim and vigor easy",
+        "category": [
+            "melody of lost loyalty",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "vim and vigor"
+        ]
+    },
+    {
+        "name": "vim and vigor medium",
+        "category": [
+            "melody of lost loyalty",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "vim and vigor"
+        ]
+    },
+    {
+        "name": "vim and vigor hard",
+        "category": [
+            "melody of lost loyalty",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "vim and vigor"
+        ]
+    },
+    {
+        "name": "the underworld easy",
+        "category": [
+            "olympus coliseum",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "the underworld"
+        ]
+    },
+    {
+        "name": "the underworld medium",
+        "category": [
+            "olympus coliseum",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "the underworld"
+        ]
+    },
+    {
+        "name": "the underworld hard",
+        "category": [
+            "olympus coliseum",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "the underworld"
+        ]
+    },
+    {
+        "name": "what lies beneath easy",
+        "category": [
+            "olympus coliseum",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "what lies beneath"
+        ]
+    },
+    {
+        "name": "what lies beneath medium",
+        "category": [
+            "olympus coliseum",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "what lies beneath"
+        ]
+    },
+    {
+        "name": "what lies beneath hard",
+        "category": [
+            "olympus coliseum",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "what lies beneath"
+        ]
+    },
+    {
+        "name": "adventures in the savannah easy",
+        "category": [
+            "pride lands",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "adventures in the savannah"
+        ]
+    },
+    {
+        "name": "adventures in the savannah medium",
+        "category": [
+            "pride lands",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "adventures in the savannah"
+        ]
+    },
+    {
+        "name": "adventures in the savannah hard",
+        "category": [
+            "pride lands",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "adventures in the savannah"
+        ]
+    },
+    {
+        "name": "savannah pride easy",
+        "category": [
+            "pride lands",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "savannah pride"
+        ]
+    },
+    {
+        "name": "savannah pride medium",
+        "category": [
+            "pride lands",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "savannah pride"
+        ]
+    },
+    {
+        "name": "savannah pride hard",
+        "category": [
+            "pride lands",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "savannah pride"
+        ]
+    },
+    {
+        "name": "desire for all that is lost easy",
+        "category": [
+            "dancing melody",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "desire for all that is lost"
+        ]
+    },
+    {
+        "name": "desire for all that is lost medium",
+        "category": [
+            "dancing melody",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "desire for all that is lost"
+        ]
+    },
+    {
+        "name": "desire for all that is lost hard",
+        "category": [
+            "dancing melody",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "desire for all that is lost"
+        ]
+    },
+    {
+        "name": "monochrome dreams easy",
+        "category": [
+            "timeless river",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "monochrome dreams"
+        ]
+    },
+    {
+        "name": "monochrome dreams medium",
+        "category": [
+            "timeless river",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "monochrome dreams"
+        ]
+    },
+    {
+        "name": "monochrome dreams hard",
+        "category": [
+            "timeless river",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "monochrome dreams"
+        ]
+    },
+    {
+        "name": "old friends, old rivals easy",
+        "category": [
+            "timeless river",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "old friends, old rivals"
+        ]
+    },
+    {
+        "name": "old friends, old rivals medium",
+        "category": [
+            "timeless river",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "old friends, old rivals"
+        ]
+    },
+    {
+        "name": "old friends, old rivals hard",
+        "category": [
+            "timeless river",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "old friends, old rivals"
+        ]
+    },
+    {
+        "name": "what a surprise?! easy",
+        "category": [
+            "halloween town",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "what a surprise?!"
+        ]
+    },
+    {
+        "name": "what a surprise?! medium",
+        "category": [
+            "halloween town",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "what a surprise?!"
+        ]
+    },
+    {
+        "name": "what a surprise?! hard",
+        "category": [
+            "halloween town",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "what a surprise?!"
+        ]
+    },
+    {
+        "name": "happy holidays! easy",
+        "category": [
+            "halloween town",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "happy holidays!"
+        ]
+    },
+    {
+        "name": "happy holidays! medium",
+        "category": [
+            "halloween town",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "happy holidays!"
+        ]
+    },
+    {
+        "name": "happy holidays! hard",
+        "category": [
+            "halloween town",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "happy holidays!"
+        ]
+    },
+    {
+        "name": "rowdy rumble easy",
+        "category": [
+            "tricksters' melody",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "rowdy rumble"
+        ]
+    },
+    {
+        "name": "rowdy rumble medium",
+        "category": [
+            "tricksters' melody",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "rowdy rumble"
+        ]
+    },
+    {
+        "name": "rowdy rumble hard",
+        "category": [
+            "tricksters' melody",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "rowdy rumble"
+        ]
+    },
+    {
+        "name": "reviving hollow bastion easy",
+        "category": [
+            "radiant garden",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "reviving hollow bastion"
+        ]
+    },
+    {
+        "name": "reviving hollow bastion medium",
+        "category": [
+            "radiant garden",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "reviving hollow bastion"
+        ]
+    },
+    {
+        "name": "reviving hollow bastion hard",
+        "category": [
+            "radiant garden",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "reviving hollow bastion"
+        ]
+    },
+    {
+        "name": "scherzo di notte easy",
+        "category": [
+            "radiant garden",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "scherzo di notte"
+        ]
+    },
+    {
+        "name": "scherzo di notte medium",
+        "category": [
+            "radiant garden",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "scherzo di notte"
+        ]
+    },
+    {
+        "name": "scherzo di notte hard",
+        "category": [
+            "radiant garden",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "scherzo di notte"
+        ]
+    },
+    {
+        "name": "space paranoids easy",
+        "category": [
+            "space paranoids",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "space paranoids"
+        ]
+    },
+    {
+        "name": "space paranoids medium",
+        "category": [
+            "space paranoids",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "space paranoids"
+        ]
+    },
+    {
+        "name": "space paranoids hard",
+        "category": [
+            "space paranoids",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "space paranoids"
+        ]
+    },
+    {
+        "name": "byte bashing easy",
+        "category": [
+            "space paranoids",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "byte bashing"
+        ]
+    },
+    {
+        "name": "byte bashing medium",
+        "category": [
+            "space paranoids",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "byte bashing"
+        ]
+    },
+    {
+        "name": "byte bashing hard",
+        "category": [
+            "space paranoids",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "byte bashing"
+        ]
+    },
+    {
+        "name": "sinister shadows easy",
+        "category": [
+            "crushing melody",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "sinister shadows"
+        ]
+    },
+    {
+        "name": "sinister shadows medium",
+        "category": [
+            "crushing melody",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "sinister shadows"
+        ]
+    },
+    {
+        "name": "sinister shadows hard",
+        "category": [
+            "crushing melody",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "sinister shadows"
+        ]
+    },
+    {
+        "name": "sacred moon easy",
+        "category": [
+            "the world that never was",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "sacred moon"
+        ]
+    },
+    {
+        "name": "sacred moon medium",
+        "category": [
+            "the world that never was",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "sacred moon"
+        ]
+    },
+    {
+        "name": "sacred moon hard",
+        "category": [
+            "the world that never was",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "sacred moon"
+        ]
+    },
+    {
+        "name": "deep drive easy",
+        "category": [
+            "the world that never was",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "deep drive"
+        ]
+    },
+    {
+        "name": "deep drive medium",
+        "category": [
+            "the world that never was",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "deep drive"
+        ]
+    },
+    {
+        "name": "deep drive hard",
+        "category": [
+            "the world that never was",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "deep drive"
+        ]
+    },
+    {
+        "name": "the 13th dilemma easy",
+        "category": [
+            "melody of betrayal",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "the 13th dilemma"
+        ]
+    },
+    {
+        "name": "the 13th dilemma medium",
+        "category": [
+            "melody of betrayal",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "the 13th dilemma"
+        ]
+    },
+    {
+        "name": "the 13th dilemma hard",
+        "category": [
+            "melody of betrayal",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "the 13th dilemma"
+        ]
+    },
+    {
+        "name": "darkness of the unknown easy",
+        "category": [
+            "superior of the in-between",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "darkness of the unknown"
+        ]
+    },
+    {
+        "name": "darkness of the unknown medium",
+        "category": [
+            "superior of the in-between",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "darkness of the unknown"
+        ]
+    },
+    {
+        "name": "darkness of the unknown hard",
+        "category": [
+            "superior of the in-between",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "darkness of the unknown"
+        ]
+    },
+    {
+        "name": "secret of neverland easy",
+        "category": [
+            "never land",
+            "easy",
+            "kh 358"
+        ],
+        "requires": [
+            "secret of neverland"
+        ]
+    },
+    {
+        "name": "secret of neverland medium",
+        "category": [
+            "never land",
+            "medium",
+            "kh 358"
+        ],
+        "requires": [
+            "secret of neverland"
+        ]
+    },
+    {
+        "name": "secret of neverland hard",
+        "category": [
+            "never land",
+            "hard",
+            "kh 358"
+        ],
+        "requires": [
+            "secret of neverland"
+        ]
+    },
+    {
+        "name": "crossing to neverland easy",
+        "category": [
+            "never land",
+            "easy",
+            "kh 358"
+        ],
+        "requires": [
+            "crossing to neverland"
+        ]
+    },
+    {
+        "name": "crossing to neverland medium",
+        "category": [
+            "never land",
+            "medium",
+            "kh 358"
+        ],
+        "requires": [
+            "crossing to neverland"
+        ]
+    },
+    {
+        "name": "crossing to neverland hard",
+        "category": [
+            "never land",
+            "hard",
+            "kh 358"
+        ],
+        "requires": [
+            "crossing to neverland"
+        ]
+    },
+    {
+        "name": "fight and away easy",
+        "category": [
+            "soaring melody",
+            "easy",
+            "kh 358"
+        ],
+        "requires": [
+            "fight and away"
+        ]
+    },
+    {
+        "name": "fight and away medium",
+        "category": [
+            "soaring melody",
+            "medium",
+            "kh 358"
+        ],
+        "requires": [
+            "fight and away"
+        ]
+    },
+    {
+        "name": "fight and away hard",
+        "category": [
+            "soaring melody",
+            "hard",
+            "kh 358"
+        ],
+        "requires": [
+            "fight and away"
+        ]
+    },
+    {
+        "name": "vector to the heavens easy",
+        "category": [
+            "melody of returning",
+            "easy",
+            "kh 358"
+        ],
+        "requires": [
+            "vector to the heavens"
+        ]
+    },
+    {
+        "name": "vector to the heavens medium",
+        "category": [
+            "melody of returning",
+            "medium",
+            "kh 358"
+        ],
+        "requires": [
+            "vector to the heavens"
+        ]
+    },
+    {
+        "name": "vector to the heavens hard",
+        "category": [
+            "melody of the dark path",
+            "hard",
+            "kh 358"
+        ],
+        "requires": [
+            "vector to the heavens"
+        ]
+    },
+    {
+        "name": "another side - battle ver. - easy",
+        "category": [
+            "melody of the dark path",
+            "easy",
+            "kh 358"
+        ],
+        "requires": [
+            "another side - battle ver. -"
+        ]
+    },
+    {
+        "name": "another side - battle ver. - medium",
+        "category": [
+            "melody of the dark path",
+            "medium",
+            "kh 358"
+        ],
+        "requires": [
+            "another side - battle ver. -"
+        ]
+    },
+    {
+        "name": "another side - battle ver. - hard",
+        "category": [
+            "melody of the dark path",
+            "hard",
+            "kh 358"
+        ],
+        "requires": [
+            "another side - battle ver. -"
+        ]
+    },
+    {
+        "name": "wonder of electron easy",
+        "category": [
+            "system sector",
+            "easy",
+            "kh recoded"
+        ],
+        "requires": [
+            "wonder of electron"
+        ]
+    },
+    {
+        "name": "wonder of electron medium",
+        "category": [
+            "system sector",
+            "medium",
+            "kh recoded"
+        ],
+        "requires": [
+            "wonder of electron"
+        ]
+    },
+    {
+        "name": "wonder of electron hard",
+        "category": [
+            "system sector",
+            "hard",
+            "kh recoded"
+        ],
+        "requires": [
+            "wonder of electron"
+        ]
+    },
+    {
+        "name": "no more bugs!! easy",
+        "category": [
+            "system sector",
+            "easy",
+            "kh recoded"
+        ],
+        "requires": [
+            "no more bugs!!"
+        ]
+    },
+    {
+        "name": "no more bugs!! medium",
+        "category": [
+            "system sector",
+            "medium",
+            "kh recoded"
+        ],
+        "requires": [
+            "no more bugs!!"
+        ]
+    },
+    {
+        "name": "no more bugs!! hard",
+        "category": [
+            "system sector",
+            "hard",
+            "kh recoded"
+        ],
+        "requires": [
+            "no more bugs!!"
+        ]
+    },
+    {
+        "name": "traverse in trance easy",
+        "category": [
+            "traverse town",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "traverse in trance"
+        ]
+    },
+    {
+        "name": "traverse in trance medium",
+        "category": [
+            "traverse town",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "traverse in trance"
+        ]
+    },
+    {
+        "name": "traverse in trance hard",
+        "category": [
+            "traverse town",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "traverse in trance"
+        ]
+    },
+    {
+        "name": "hand to hand easy",
+        "category": [
+            "traverse town",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "hand to hand"
+        ]
+    },
+    {
+        "name": "hand to hand medium",
+        "category": [
+            "traverse town",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "hand to hand"
+        ]
+    },
+    {
+        "name": "hand to hand hard",
+        "category": [
+            "traverse town",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "hand to hand"
+        ]
+    },
+    {
+        "name": "la cloche easy",
+        "category": [
+            "la cite des cloches",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "la cloche"
+        ]
+    },
+    {
+        "name": "la cloche medium",
+        "category": [
+            "la cite des cloches",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "la cloche"
+        ]
+    },
+    {
+        "name": "la cloche hard",
+        "category": [
+            "la cite des cloches",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "la cloche"
+        ]
+    },
+    {
+        "name": "le sanctuaire easy",
+        "category": [
+            "la cite des cloches",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "le sanctuaire"
+        ]
+    },
+    {
+        "name": "le sanctuaire medium",
+        "category": [
+            "la cite des cloches",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "le sanctuaire"
+        ]
+    },
+    {
+        "name": "le sanctuaire hard",
+        "category": [
+            "la cite des cloches",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "le sanctuaire"
+        ]
+    },
+    {
+        "name": "majestic wings easy",
+        "category": [
+            "reverent melody",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "majestic wings"
+        ]
+    },
+    {
+        "name": "majestic wings medium",
+        "category": [
+            "reverent melody",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "majestic wings"
+        ]
+    },
+    {
+        "name": "majestic wings hard",
+        "category": [
+            "reverent melody",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "majestic wings"
+        ]
+    },
+    {
+        "name": "access the grid easy",
+        "category": [
+            "the grid",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "access the grid"
+        ]
+    },
+    {
+        "name": "access the grid medium",
+        "category": [
+            "the grid",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "access the grid"
+        ]
+    },
+    {
+        "name": "access the grid hard",
+        "category": [
+            "the grid",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "access the grid"
+        ]
+    },
+    {
+        "name": "digital domination easy",
+        "category": [
+            "the grid",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "digital domination"
+        ]
+    },
+    {
+        "name": "digital domination medium",
+        "category": [
+            "the grid",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "digital domination"
+        ]
+    },
+    {
+        "name": "digital domination hard",
+        "category": [
+            "the grid",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "digital domination"
+        ]
+    },
+    {
+        "name": "the fun fair easy",
+        "category": [
+            "prankster's paradise",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "the fun fair"
+        ]
+    },
+    {
+        "name": "the fun fair medium",
+        "category": [
+            "prankster's paradise",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "the fun fair"
+        ]
+    },
+    {
+        "name": "the fun fair hard",
+        "category": [
+            "prankster's paradise",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "the fun fair"
+        ]
+    },
+    {
+        "name": "prankster's paradise easy",
+        "category": [
+            "prankster's paradise",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "prankster's paradise"
+        ]
+    },
+    {
+        "name": "prankster's paradise medium",
+        "category": [
+            "prankster's paradise",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "prankster's paradise"
+        ]
+    },
+    {
+        "name": "prankster's paradise hard",
+        "category": [
+            "prankster's paradise",
+            "hard",
+            "kh ddd"
+        ],
+        "requprankster's paradiseires": [
+            ""
+        ]
+    },
+    {
+        "name": "one for all easy",
+        "category": [
+            "country of musketeers",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "one for all"
+        ]
+    },
+    {
+        "name": "one for all medium",
+        "category": [
+            "country of musketeers",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "one for all"
+        ]
+    },
+    {
+        "name": "one for all hard",
+        "category": [
+            "country of musketeers",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "one for all"
+        ]
+    },
+    {
+        "name": "all for one easy",
+        "category": [
+            "country of musketeers",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "all for one"
+        ]
+    },
+    {
+        "name": "all for one medium",
+        "category": [
+            "country of musketeers",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "all for one"
+        ]
+    },
+    {
+        "name": "all for one hard",
+        "category": [
+            "country of musketeers",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "all for one"
+        ]
+    },
+    {
+        "name": "sacred distance easy",
+        "category": [
+            "the world that never was",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "sacred distance"
+        ]
+    },
+    {
+        "name": "sacred distance medium",
+        "category": [
+            "the world that never was",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "sacred distance"
+        ]
+    },
+    {
+        "name": "sacred distance hard",
+        "category": [
+            "the world that never was",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "sacred distance"
+        ]
+    },
+    {
+        "name": "deep drop easy",
+        "category": [
+            "the world that never was",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "deep drop"
+        ]
+    },
+    {
+        "name": "deep drop medium",
+        "category": [
+            "the world that never was",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "deep drop"
+        ]
+    },
+    {
+        "name": "deep drop hard",
+        "category": [
+            "the world that never was",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "deep drop"
+        ]
+    },
+    {
+        "name": "l'oscurita dell'ignoto easy",
+        "category": [
+            "melody of slumber",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "l'oscurita dell'ignoto"
+        ]
+    },
+    {
+        "name": "l'oscurita dell'ignoto medium",
+        "category": [
+            "melody of slumber",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "l'oscurita dell'ignoto"
+        ]
+    },
+    {
+        "name": "l'oscurita dell'ignoto hard",
+        "category": [
+            "melody of slumber",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "l'oscurita dell'ignoto"
+        ]
+    },
+    {
+        "name": "l'impeto oscuro easy",
+        "category": [
+            "temporal melody",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "l'impeto oscuro"
+        ]
+    },
+    {
+        "name": "l'impeto oscuro medium",
+        "category": [
+            "temporal melody",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "l'impeto oscuro"
+        ]
+    },
+    {
+        "name": "l'impeto oscuro hard",
+        "category": [
+            "temporal melody",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "l'impeto oscuro"
+        ]
+    },
+    {
+        "name": "the eye of darkness easy",
+        "category": [
+            "dreaming melody",
+            "easy",
+            "kh ddd"
+        ],
+        "requires": [
+            "the eye of darkness"
+        ]
+    },
+    {
+        "name": "the eye of darkness medium",
+        "category": [
+            "dreaming melody",
+            "medium",
+            "kh ddd"
+        ],
+        "requires": [
+            "the eye of darkness"
+        ]
+    },
+    {
+        "name": "the eye of darkness hard",
+        "category": [
+            "dreaming melody",
+            "hard",
+            "kh ddd"
+        ],
+        "requires": [
+            "the eye of darkness"
+        ]
+    },
+    {
+        "name": "the promised beginning easy",
+        "category": [
+            "the land of departure",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "the promised beginning"
+        ]
+    },
+    {
+        "name": "the promised beginning medium",
+        "category": [
+            "the land of departure",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "the promised beginning"
+        ]
+    },
+    {
+        "name": "the promised beginning hard",
+        "category": [
+            "the land of departure",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "the promised beginning"
+        ]
+    },
+    {
+        "name": "future masters easy",
+        "category": [
+            "the land of departure",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "future masters"
+        ]
+    },
+    {
+        "name": "future masters medium",
+        "category": [
+            "the land of departure",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "future masters"
+        ]
+    },
+    {
+        "name": "future masters hard",
+        "category": [
+            "the land of departure",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "future masters"
+        ]
+    },
+    {
+        "name": "the secret whispers easy",
+        "category": [
+            "dwarf woodlands",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "the secret whispers"
+        ]
+    },
+    {
+        "name": "the secret whispers medium",
+        "category": [
+            "dwarf woodlands",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "the secret whispers"
+        ]
+    },
+    {
+        "name": "the secret whispers hard",
+        "category": [
+            "dwarf woodlands",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "the secret whispers"
+        ]
+    },
+    {
+        "name": "risky romp easy",
+        "category": [
+            "dwarf woodlands",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "risky romp"
+        ]
+    },
+    {
+        "name": "risky romp medium",
+        "category": [
+            "dwarf woodlands",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "risky romp"
+        ]
+    },
+    {
+        "name": "risky romp hard",
+        "category": [
+            "dwarf woodlands",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "risky romp"
+        ]
+    },
+    {
+        "name": "bibbidi-bobbidi-boo easy",
+        "category": [
+            "castle of dreams",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "bibbidi-bobbidi-boo"
+        ]
+    },
+    {
+        "name": "bibbidi-bobbidi-boo medium",
+        "category": [
+            "castle of dreams",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "bibbidi-bobbidi-boo"
+        ]
+    },
+    {
+        "name": "bibbidi-bobbidi-boo hard",
+        "category": [
+            "castle of dreams",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "bibbidi-bobbidi-boo"
+        ]
+    },
+    {
+        "name": "castle escapade easy",
+        "category": [
+            "castle of dreams",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "castle escapade"
+        ]
+    },
+    {
+        "name": "castle escapade medium",
+        "category": [
+            "castle of dreams",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "castle escapade"
+        ]
+    },
+    {
+        "name": "castle escapade hard",
+        "category": [
+            "castle of dreams",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "castle escapade"
+        ]
+    },
+    {
+        "name": "the silent forest easy",
+        "category": [
+            "enchanted dominion",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "the silent forest"
+        ]
+    },
+    {
+        "name": "the silent forest medium",
+        "category": [
+            "enchanted dominion",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "the silent forest"
+        ]
+    },
+    {
+        "name": "the silent forest hard",
+        "category": [
+            "enchanted dominion",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "the silent forest"
+        ]
+    },
+    {
+        "name": "the rustling forest easy",
+        "category": [
+            "enchanted dominion",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "the rustling forest"
+        ]
+    },
+    {
+        "name": "the rustling forest medium",
+        "category": [
+            "enchanted dominion",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "the rustling forest"
+        ]
+    },
+    {
+        "name": "the rustling forest hard",
+        "category": [
+            "enchanted dominion",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "the rustling forest"
+        ]
+    },
+    {
+        "name": "mickey mouse march easy",
+        "category": [
+            "disney town",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "mickey mouse march"
+        ]
+    },
+    {
+        "name": "mickey mouse march medium",
+        "category": [
+            "disney town",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "mickey mouse march"
+        ]
+    },
+    {
+        "name": "mickey mouse march hard",
+        "category": [
+            "disney town",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "mickey mouse march"
+        ]
+    },
+    {
+        "name": "up down adventure easy",
+        "category": [
+            "disney town",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "up down adventure"
+        ]
+    },
+    {
+        "name": "up down adventure medium",
+        "category": [
+            "disney town",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "up down adventure"
+        ]
+    },
+    {
+        "name": "up down adventure hard",
+        "category": [
+            "disney town",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "up down adventure"
+        ]
+    },
+    {
+        "name": "daydream upon neverland easy",
+        "category": [
+            "never land",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "daydream upon neverland"
+        ]
+    },
+    {
+        "name": "daydream upon neverland medium",
+        "category": [
+            "never land",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "daydream upon neverland"
+        ]
+    },
+    {
+        "name": "daydream upon neverland hard",
+        "category": [
+            "never land",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "daydream upon neverland"
+        ]
+    },
+    {
+        "name": "neverland's scherzo easy",
+        "category": [
+            "never land",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "neverland's scherzo"
+        ]
+    },
+    {
+        "name": "neverland's scherzo medium",
+        "category": [
+            "never land",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "neverland's scherzo"
+        ]
+    },
+    {
+        "name": "neverland's scherzo hard",
+        "category": [
+            "never land",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "neverland's scherzo"
+        ]
+    },
+    {
+        "name": "the tumbling easy",
+        "category": [
+            "negative melody",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "the tumbling"
+        ]
+    },
+    {
+        "name": "the tumbling medium",
+        "category": [
+            "negative melody",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "the tumbling"
+        ]
+    },
+    {
+        "name": "the tumbling hard",
+        "category": [
+            "negative melody",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "the tumbling"
+        ]
+    },
+    {
+        "name": "radiant garden easy",
+        "category": [
+            "radiant garden",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "radiant garden"
+        ]
+    },
+    {
+        "name": "radiant garden medium",
+        "category": [
+            "radiant garden",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "radiant garden"
+        ]
+    },
+    {
+        "name": "radiant garden hard",
+        "category": [
+            "radiant garden",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "radiant garden"
+        ]
+    },
+    {
+        "name": "black garden easy",
+        "category": [
+            "radiant garden",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "black garden"
+        ]
+    },
+    {
+        "name": "black garden medium",
+        "category": [
+            "radiant garden",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "black garden"
+        ]
+    },
+    {
+        "name": "black garden hard",
+        "category": [
+            "radiant garden",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "black garden"
+        ]
+    },
+    {
+        "name": "hau'oli, hau'oli easy",
+        "category": [
+            "deep space",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "hau'oli, hau'oli"
+        ]
+    },
+    {
+        "name": "hau'oli, hau'oli medium",
+        "category": [
+            "deep space",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "hau'oli, hau'oli"
+        ]
+    },
+    {
+        "name": "hau'oli, hau'oli hard",
+        "category": [
+            "deep space",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "hau'oli, hau'oli"
+        ]
+    },
+    {
+        "name": "makaukau? easy",
+        "category": [
+            "deep space",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "makaukau?"
+        ]
+    },
+    {
+        "name": "makaukau? medium",
+        "category": [
+            "deep space",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "makaukau?"
+        ]
+    },
+    {
+        "name": "makaukau? hard",
+        "category": [
+            "deep space",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "makaukau?"
+        ]
+    },
+    {
+        "name": "the encounter -birth by sleep version- easy",
+        "category": [
+            "evil fairy",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "the encounter -birth by sleep version-"
+        ]
+    },
+    {
+        "name": "the encounter -birth by sleep version- medium",
+        "category": [
+            "evil fairy",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "the encounter -birth by sleep version-"
+        ]
+    },
+    {
+        "name": "the encounter -birth by sleep version- hard",
+        "category": [
+            "evil fairy",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "the encounter -birth by sleep version-"
+        ]
+    },
+    {
+        "name": "black powder easy",
+        "category": [
+            "melody of culmination",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "black powder"
+        ]
+    },
+    {
+        "name": "black powder medium",
+        "category": [
+            "melody of culmination",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "black powder"
+        ]
+    },
+    {
+        "name": "black powder hard",
+        "category": [
+            "melody of culmination",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "black powder"
+        ]
+    },
+    {
+        "name": "enter the darkness easy",
+        "category": [
+            "melody of pure darkness",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "enter the darkness"
+        ]
+    },
+    {
+        "name": "enter the darkness medium",
+        "category": [
+            "melody of pure darkness",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "enter the darkness"
+        ]
+    },
+    {
+        "name": "enter the darkness hard",
+        "category": [
+            "melody of pure darkness",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "enter the darkness"
+        ]
+    },
+    {
+        "name": "rage awakened -the origin- easy",
+        "category": [
+            "melody of will",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "rage awakened -the origin-"
+        ]
+    },
+    {
+        "name": "rage awakened -the origin- medium",
+        "category": [
+            "melody of will",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "rage awakened -the origin-"
+        ]
+    },
+    {
+        "name": "rage awakened -the origin- hard",
+        "category": [
+            "melody of will",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "rage awakened -the origin-"
+        ]
+    },
+    {
+        "name": "dismiss easy",
+        "category": [
+            "unwavering melody",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "dismiss"
+        ]
+    },
+    {
+        "name": "dismiss medium",
+        "category": [
+            "unwavering melody",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "dismiss"
+        ]
+    },
+    {
+        "name": "dismiss hard",
+        "category": [
+            "unwavering melody",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "dismiss"
+        ]
+    },
+    {
+        "name": "one-winged angel (from final fantasy vii) easy",
+        "category": [
+            "one-winged melody",
+            "easy",
+            "kh 1"
+        ],
+        "requires": [
+            "one-winged angel (from final fantasy vii)"
+        ]
+    },
+    {
+        "name": "one-winged angel (from final fantasy vii) medium",
+        "category": [
+            "one-winged melody",
+            "medium",
+            "kh 1"
+        ],
+        "requires": [
+            "one-winged angel (from final fantasy vii)"
+        ]
+    },
+    {
+        "name": "one-winged angel (from final fantasy vii) hard",
+        "category": [
+            "one-winged melody",
+            "hard",
+            "kh 1"
+        ],
+        "requires": [
+            "one-winged angel (from final fantasy vii)"
+        ]
+    },
+    {
+        "name": "the other promise easy",
+        "category": [
+            "melody of clashing keys",
+            "easy",
+            "kh 2"
+        ],
+        "requires": [
+            "the other promise"
+        ]
+    },
+    {
+        "name": "the other promise medium",
+        "category": [
+            "melody of clashing keys",
+            "medium",
+            "kh 2"
+        ],
+        "requires": [
+            "the other promise"
+        ]
+    },
+    {
+        "name": "the other promise hard",
+        "category": [
+            "melody of clashing keys",
+            "hard",
+            "kh 2"
+        ],
+        "requires": [
+            "the other promise"
+        ]
+    },
+    {
+        "name": "rage awakened easy",
+        "category": [
+            "lingering melody",
+            "easy",
+            "kh bbs"
+        ],
+        "requires": [
+            "rage awakened"
+        ]
+    },
+    {
+        "name": "rage awakened medium",
+        "category": [
+            "lingering melody",
+            "medium",
+            "kh bbs"
+        ],
+        "requires": [
+            "rage awakened"
+        ]
+    },
+    {
+        "name": "rage awakened hard",
+        "category": [
+            "lingering melody",
+            "hard",
+            "kh bbs"
+        ],
+        "requires": [
+            "rage awakened"
+        ]
+    },
+    {
+        "name": "you've got a friend in me -kingdom hearts iii version- easy",
+        "category": [
+            "toy box",
+            "easy",
+            "kh3"
+        ],
+        "requires": [
+            "you've got a friend in me -kingdom hearts iii version-"
+        ]
+    },
+    {
+        "name": "you've got a friend in me -kingdom hearts iii version- medium",
+        "category": [
+            "toy box",
+            "medium",
+            "kh3"
+        ],
+        "requires": [
+            "you've got a friend in me -kingdom hearts iii version-"
+        ]
+    },
+    {
+        "name": "you've got a friend in me -kingdom hearts iii version- hard",
+        "category": [
+            "toy box",
+            "hard",
+            "kh3"
+        ],
+        "requires": [
+            "you've got a friend in me -kingdom hearts iii version-"
+        ]
+    },
+    {
+        "name": "happy hair day easy",
+        "category": [
+            "kingdom of corona",
+            "easy",
+            "kh3"
+        ],
+        "requires": [
+            "happy hair day"
+        ]
+    },
+    {
+        "name": "happy hair day medium",
+        "category": [
+            "kingdom of corona",
+            "medium",
+            "kh3"
+        ],
+        "requires": [
+            "happy hair day"
+        ]
+    },
+    {
+        "name": "happy hair day hard",
+        "category": [
+            "kingdom of corona",
+            "hard",
+            "kh3"
+        ],
+        "requires": [
+            "happy hair day"
+        ]
+    },
+    {
+        "name": "monster smash! easy",
+        "category": [
+            "monstropolis",
+            "easy",
+            "kh3"
+        ],
+        "requires": [
+            "monster smash!"
+        ]
+    },
+    {
+        "name": "monster smash! medium",
+        "category": [
+            "monstropolis",
+            "medium",
+            "kh3"
+        ],
+        "requires": [
+            "monster smash!"
+        ]
+    },
+    {
+        "name": "monster smash! hard",
+        "category": [
+            "monstropolis",
+            "hard",
+            "kh3"
+        ],
+        "requires": [
+            "monster smash!"
+        ]
+    },
+    {
+        "name": "let it go easy",
+        "category": [
+            "arendelle",
+            "easy",
+            "kh3"
+        ],
+        "requires": [
+            "let it go"
+        ]
+    },
+    {
+        "name": "let it go medium",
+        "category": [
+            "arendelle",
+            "medium",
+            "kh3"
+        ],
+        "requires": [
+            "let it go"
+        ]
+    },
+    {
+        "name": "let it go hard",
+        "category": [
+            "arendelle",
+            "hard",
+            "kh3"
+        ],
+        "requires": [
+            "let it go"
+        ]
+    },
+    {
+        "name": "robot overdrive easy",
+        "category": [
+            "san fransokyo",
+            "easy",
+            "kh3"
+        ],
+        "requires": [
+            "robot overdrive"
+        ]
+    },
+    {
+        "name": "robot overdrive medium",
+        "category": [
+            "san fransokyo",
+            "medium",
+            "kh3"
+        ],
+        "requires": [
+            "robot overdrive"
+        ]
+    },
+    {
+        "name": "robot overdrive hard",
+        "category": [
+            "san fransokyo",
+            "hard",
+            "kh3"
+        ],
+        "requires": [
+            "robot overdrive"
+        ]
+    },
+    {
+        "name": "graveyard labyrinth easy",
+        "category": [
+            "keyblade graveyard",
+            "easy",
+            "kh3"
+        ],
+        "requires": [
+            "graveyard labyrinth"
+        ]
+    },
+    {
+        "name": "graveyard labyrinth medium",
+        "category": [
+            "keyblade graveyard",
+            "medium",
+            "kh3"
+        ],
+        "requires": [
+            "graveyard labyrinth"
+        ]
+    },
+    {
+        "name": "graveyard labyrinth hard",
+        "category": [
+            "keyblade graveyard",
+            "hard",
+            "kh3"
+        ],
+        "requires": [
+            "graveyard labyrinth"
+        ]
+    },
+    {
+        "name": "rise of the union easy",
+        "category": [
+            "melody of past light",
+            "easy",
+            "kh3"
+        ],
+        "requires": [
+            "rise of the union"
+        ]
+    },
+    {
+        "name": "rise of the union medium",
+        "category": [
+            "melody of past light",
+            "medium",
+            "kh3"
+        ],
+        "requires": [
+            "rise of the union"
+        ]
+    },
+    {
+        "name": "rise of the union hard",
+        "category": [
+            "melody of past light",
+            "hard",
+            "kh3"
+        ],
+        "requires": [
+            "rise of the union"
+        ]
+    },
+    {
+        "name": "dark domination easy",
+        "category": [
+            "melody of memory's end",
+            "easy",
+            "kh3"
+        ],
+        "requires": [
+            "dark domination"
+        ]
+    },
+    {
+        "name": "dark domination medium",
+        "category": [
+            "melody of memory's end",
+            "medium",
+            "kh3"
+        ],
+        "requires": [
+            "dark domination"
+        ]
+    },
+    {
+        "name": "dark domination hard",
+        "category": [
+            "melody of memory's end",
+            "hard",
+            "kh3"
+        ],
+        "requires": [
+            "dark domination"
+        ]
+    }
+
+]
