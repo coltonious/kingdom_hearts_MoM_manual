@@ -1,9 +1,7 @@
 {
-    "game": "Kingdom Hearts Melody of Memory",
-    "creator": "coltonious",
-    "starting_items": {
-        "item_categories": ["kh 1", "kh 2", "kh 3", "kh recom", "kh bbs", "kh ddd", "kh recoded", "kh 0.2", "kh 358"],
-        "random": []
-    },
-    "death_link": true
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "kingdom_hearts_melody_of_memory",
+  "creator": "coltonious",
+  "filler_item_name": "Filler",
+  "starting_items": []
 }
