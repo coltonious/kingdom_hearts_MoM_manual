@@ -4,7 +4,8 @@
         "category": [
             "writhing melody",
             "easy",
-            "kh 0.2"
+            "kh 0.2",
+            "level"
         ],
         "requires": [
             "wave of darkness"
@@ -16,7 +17,8 @@
         "category": [
             "writhing melody",
             "medium",
-            "kh 0.2"
+            "kh 0.2",
+            "level"
         ],
         "requires": [
             "wave of darkness"
@@ -28,7 +30,8 @@
         "category": [
             "writhing melody",
             "hard",
-            "kh 0.2"
+            "kh 0.2",
+            "level"
         ],
         "requires": [
             "wave of darkness"
@@ -40,7 +43,8 @@
         "category": [
             "destiny islands",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "destiny islands"
@@ -52,7 +56,8 @@
         "category": [
             "destiny islands",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "destiny islands"
@@ -64,7 +69,8 @@
         "category": [
             "destiny islands",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "destiny islands"
@@ -76,7 +82,8 @@
         "category": [
             "destiny islands",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "bustin' up the beach"
@@ -88,7 +95,8 @@
         "category": [
             "destiny islands",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "bustin' up the beach"
@@ -100,7 +108,8 @@
         "category": [
             "destiny islands",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "bustin' up the beach"
@@ -112,7 +121,8 @@
         "category": [
             "melody of fate",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "night of fate"
@@ -124,7 +134,8 @@
         "category": [
             "melody of fate",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "night of fate"
@@ -136,7 +147,8 @@
         "category": [
             "melody of fate",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "night of fate"
@@ -148,7 +160,8 @@
         "category": [
             "melody of destruction",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "destiny's force"
@@ -160,7 +173,8 @@
         "category": [
             "melody of destruction",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "destiny's force"
@@ -172,7 +186,8 @@
         "category": [
             "melody of destruction",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "destiny's force"
@@ -184,7 +199,8 @@
         "category": [
             "traverse town",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "traverse town"
@@ -196,7 +212,8 @@
         "category": [
             "traverse town",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "traverse town"
@@ -208,7 +225,8 @@
         "category": [
             "traverse town",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "traverse town"
@@ -220,7 +238,8 @@
         "category": [
             "traverse town",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "hand in hand"
@@ -232,7 +251,8 @@
         "category": [
             "traverse town",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "hand in hand"
@@ -244,7 +264,8 @@
         "category": [
             "traverse town",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "hand in hand"
@@ -256,7 +277,8 @@
         "category": [
             "melody of beginnings",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "shrouding dark cloud"
@@ -268,7 +290,8 @@
         "category": [
             "melody of beginnings",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "shrouding dark cloud"
@@ -280,7 +303,8 @@
         "category": [
             "melody of beginnings",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "shrouding dark cloud"
@@ -292,7 +316,8 @@
         "category": [
             "wonderland",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "welcome to wonderland"
@@ -304,7 +329,8 @@
         "category": [
             "wonderland",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "welcome to wonderland"
@@ -316,7 +342,8 @@
         "category": [
             "wonderland",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "welcome to wonderland"
@@ -328,7 +355,8 @@
         "category": [
             "wonderland",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "to our surprise"
@@ -340,7 +368,8 @@
         "category": [
             "wonderland",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "to our surprise"
@@ -352,7 +381,8 @@
         "category": [
             "wonderland",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "to our surprise"
@@ -364,7 +394,8 @@
         "category": [
             "agrabah",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "a day in agrabah"
@@ -376,7 +407,8 @@
         "category": [
             "agrabah",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "a day in agrabah"
@@ -388,18 +420,21 @@
         "category": [
             "agrabah",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "a day in agrabah"
-        ]
+        ],
+        "progression": true
     },
     {
         "name": "arabian dream easy",
         "category": [
             "agrabah",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "arabian dream"
@@ -411,7 +446,8 @@
         "category": [
             "agrabah",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "arabian dream"
@@ -423,7 +459,8 @@
         "category": [
             "agrabah",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "arabian dream"
@@ -435,7 +472,8 @@
         "category": [
             "atlantica",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "under the sea"
@@ -447,7 +485,8 @@
         "category": [
             "atlantica",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "under the sea"
@@ -459,7 +498,8 @@
         "category": [
             "atlantica",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "under the sea"
@@ -471,7 +511,8 @@
         "category": [
             "atlantica",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "an adventure in atlantica"
@@ -483,7 +524,8 @@
         "category": [
             "atlantica",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "an adventure in atlantica"
@@ -495,7 +537,8 @@
         "category": [
             "atlantica",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "an adventure in atlantica"
@@ -507,7 +550,8 @@
         "category": [
             "halloween town",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "this is halloween"
@@ -519,7 +563,8 @@
         "category": [
             "halloween town",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "this is halloween"
@@ -531,7 +576,8 @@
         "category": [
             "halloween town",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "this is halloween"
@@ -543,7 +589,8 @@
         "category": [
             "halloween town",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "spooks of halloween town"
@@ -555,7 +602,8 @@
         "category": [
             "halloween town",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "spooks of halloween town"
@@ -567,7 +615,8 @@
         "category": [
             "halloween town",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "spooks of halloween town"
@@ -579,7 +628,8 @@
         "category": [
             "olympus coliseum",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "olympus coliseum"
@@ -591,7 +641,8 @@
         "category": [
             "olympus coliseum",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "olympus coliseum"
@@ -603,7 +654,8 @@
         "category": [
             "olympus coliseum",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "olympus coliseum"
@@ -615,7 +667,8 @@
         "category": [
             "olympus coliseum",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "go for it!"
@@ -627,7 +680,8 @@
         "category": [
             "olympus coliseum",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "go for it!"
@@ -639,7 +693,8 @@
         "category": [
             "olympus coliseum",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "go for it!"
@@ -651,7 +706,8 @@
         "category": [
             "monstro",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "a very small wish"
@@ -663,7 +719,8 @@
         "category": [
             "monstro",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "a very small wish"
@@ -675,7 +732,8 @@
         "category": [
             "monstro",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "a very small wish"
@@ -687,7 +745,8 @@
         "category": [
             "monstro",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "monstrous monstro"
@@ -699,7 +758,8 @@
         "category": [
             "monstro",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "monstrous monstro"
@@ -711,7 +771,8 @@
         "category": [
             "monstro",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "monstrous monstro"
@@ -723,7 +784,8 @@
         "category": [
             "neverland",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "captain hook's pirate ship"
@@ -735,7 +797,8 @@
         "category": [
             "neverland",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "captain hook's pirate ship"
@@ -747,7 +810,8 @@
         "category": [
             "neverland",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "captain hook's pirate ship"
@@ -759,7 +823,8 @@
         "category": [
             "neverland",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "pirate's gigue"
@@ -771,7 +836,8 @@
         "category": [
             "neverland",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "pirate's gigue"
@@ -783,7 +849,8 @@
         "category": [
             "neverland",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "pirate's gigue"
@@ -795,7 +862,8 @@
         "category": [
             "hollow bastion",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "hollow bastion"
@@ -807,7 +875,8 @@
         "category": [
             "hollow bastion",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "hollow bastion"
@@ -819,7 +888,8 @@
         "category": [
             "hollow bastion",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "hollow bastion"
@@ -831,7 +901,8 @@
         "category": [
             "hollow bastion",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "scherzo di notte"
@@ -843,7 +914,8 @@
         "category": [
             "hollow bastion",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "scherzo di notte"
@@ -855,7 +927,8 @@
         "category": [
             "hollow bastion",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "scherzo di notte"
@@ -867,18 +940,21 @@
         "category": [
             "wicked melody",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "squirming evil"
-        ]
+        ],
+        "progression": true
     },
     {
         "name": "squirming evil medium",
         "category": [
             "wicked melody",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "squirming evil"
@@ -890,7 +966,8 @@
         "category": [
             "wicked melody",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "squirming evil"
@@ -902,7 +979,8 @@
         "category": [
             "end of the world",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "end of the world"
@@ -914,7 +992,8 @@
         "category": [
             "end of the world",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "end of the world"
@@ -926,7 +1005,8 @@
         "category": [
             "end of the world",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "end of the world"
@@ -938,7 +1018,8 @@
         "category": [
             "end of the world",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "fragments of sorrow"
@@ -950,7 +1031,8 @@
         "category": [
             "end of the world",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "fragments of sorrow"
@@ -962,7 +1044,8 @@
         "category": [
             "end of the world",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "fragments of sorrow"
@@ -974,7 +1057,8 @@
         "category": [
             "seeker of darkness",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "guardando nel buio"
@@ -986,7 +1070,8 @@
         "category": [
             "seeker of darkness",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "guardando nel buio"
@@ -998,7 +1083,8 @@
         "category": [
             "seeker of darkness",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "guardando nel buio"
@@ -1010,7 +1096,8 @@
         "category": [
             "castle oblivion",
             "easy",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "castle oblivion"
@@ -1022,7 +1109,8 @@
         "category": [
             "castle oblivion",
             "medium",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "castle oblivion"
@@ -1034,7 +1122,8 @@
         "category": [
             "castle oblivion",
             "hard",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "castle oblivion"
@@ -1046,7 +1135,8 @@
         "category": [
             "castle oblivion",
             "easy",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "forgotten challenge"
@@ -1058,7 +1148,8 @@
         "category": [
             "castle oblivion",
             "medium",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "forgotten challenge"
@@ -1070,7 +1161,8 @@
         "category": [
             "castle oblivion",
             "hard",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "forgotten challenge"
@@ -1082,7 +1174,8 @@
         "category": [
             "melody without a heart",
             "easy",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "the 13th struggle"
@@ -1094,7 +1187,8 @@
         "category": [
             "melody without a heart",
             "medium",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "the 13th struggle"
@@ -1106,7 +1200,8 @@
         "category": [
             "melody without a heart",
             "hard",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "the 13th struggle"
@@ -1118,7 +1213,8 @@
         "category": [
             "false melody",
             "easy",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "the force in you"
@@ -1130,7 +1226,8 @@
         "category": [
             "false melody",
             "medium",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "the force in you"
@@ -1142,7 +1239,8 @@
         "category": [
             "false melody",
             "hard",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "the force in you"
@@ -1154,7 +1252,8 @@
         "category": [
             "melody of oblivion",
             "easy",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "lord of the castle"
@@ -1166,7 +1265,8 @@
         "category": [
             "melody of oblivion",
             "medium",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "lord of the castle"
@@ -1178,7 +1278,8 @@
         "category": [
             "melody of oblivion",
             "hard",
-            "kh recom"
+            "kh recom",
+            "level"
         ],
         "requires": [
             "lord of the castle"
@@ -1190,7 +1291,8 @@
         "category": [
             "the other twilight town",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "lazy afternoons"
@@ -1202,7 +1304,8 @@
         "category": [
             "the other twilight town",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "lazy afternoons"
@@ -1214,18 +1317,21 @@
         "category": [
             "the other twilight town",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "lazy afternoons"
-        ]
+        ],
+        "progression": true
     },
     {
         "name": "sinister sundown easy",
         "category": [
             "the other twilight town",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "sinister sundown"
@@ -1237,7 +1343,8 @@
         "category": [
             "the other twilight town",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "sinister sundown"
@@ -1249,7 +1356,8 @@
         "category": [
             "the other twilight town",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "sinister sundown"
@@ -1261,7 +1369,8 @@
         "category": [
             "melody of waking",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "tension rising"
@@ -1273,7 +1382,8 @@
         "category": [
             "melody of waking",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "tension rising"
@@ -1285,7 +1395,8 @@
         "category": [
             "melody of waking",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "tension rising"
@@ -1297,7 +1408,8 @@
         "category": [
             "twilight town",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the afternoon streets"
@@ -1309,7 +1421,8 @@
         "category": [
             "twilight town",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the afternoon streets"
@@ -1321,7 +1434,8 @@
         "category": [
             "twilight town",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the afternoon streets"
@@ -1333,7 +1447,8 @@
         "category": [
             "twilight town",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "working together"
@@ -1345,7 +1460,8 @@
         "category": [
             "twilight town",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "working together"
@@ -1357,7 +1473,8 @@
         "category": [
             "twilight town",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "working together"
@@ -1369,7 +1486,8 @@
         "category": [
             "mysterious tower",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "magical mystery"
@@ -1381,7 +1499,8 @@
         "category": [
             "mysterious tower",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "magical mystery"
@@ -1393,7 +1512,8 @@
         "category": [
             "mysterious tower",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "magical mystery"
@@ -1405,7 +1525,8 @@
         "category": [
             "the land of dragons",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the home of dragons"
@@ -1417,7 +1538,8 @@
         "category": [
             "the land of dragons",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the home of dragons"
@@ -1429,7 +1551,8 @@
         "category": [
             "the land of dragons",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the home of dragons"
@@ -1441,7 +1564,8 @@
         "category": [
             "the land of dragons",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "fields of honor"
@@ -1453,7 +1577,8 @@
         "category": [
             "the land of dragons",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "fields of honor"
@@ -1465,7 +1590,8 @@
         "category": [
             "the land of dragons",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "fields of honor"
@@ -1477,7 +1603,8 @@
         "category": [
             "beast's castle",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "waltz of the dammed"
@@ -1489,7 +1616,8 @@
         "category": [
             "beast's castle",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "waltz of the dammed"
@@ -1501,7 +1629,8 @@
         "category": [
             "beast's castle",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "waltz of the dammed"
@@ -1513,7 +1642,8 @@
         "category": [
             "beast's castle",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "dance of the daring"
@@ -1525,7 +1655,8 @@
         "category": [
             "beast's castle",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "dance of the daring"
@@ -1537,7 +1668,8 @@
         "category": [
             "beast's castle",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "dance of the daring"
@@ -1549,7 +1681,8 @@
         "category": [
             "melody of lost loyalty",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "vim and vigor"
@@ -1561,7 +1694,8 @@
         "category": [
             "melody of lost loyalty",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "vim and vigor"
@@ -1573,7 +1707,8 @@
         "category": [
             "melody of lost loyalty",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "vim and vigor"
@@ -1585,7 +1720,8 @@
         "category": [
             "olympus coliseum",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the underworld"
@@ -1597,7 +1733,8 @@
         "category": [
             "olympus coliseum",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the underworld"
@@ -1609,7 +1746,8 @@
         "category": [
             "olympus coliseum",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the underworld"
@@ -1621,7 +1759,8 @@
         "category": [
             "olympus coliseum",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "what lies beneath"
@@ -1633,7 +1772,8 @@
         "category": [
             "olympus coliseum",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "what lies beneath"
@@ -1645,7 +1785,8 @@
         "category": [
             "olympus coliseum",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "what lies beneath"
@@ -1657,7 +1798,8 @@
         "category": [
             "pride lands",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "adventures in the savannah"
@@ -1669,7 +1811,8 @@
         "category": [
             "pride lands",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "adventures in the savannah"
@@ -1681,7 +1824,8 @@
         "category": [
             "pride lands",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "adventures in the savannah"
@@ -1693,7 +1837,8 @@
         "category": [
             "pride lands",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "savannah pride"
@@ -1705,7 +1850,8 @@
         "category": [
             "pride lands",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "savannah pride"
@@ -1717,7 +1863,8 @@
         "category": [
             "pride lands",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "savannah pride"
@@ -1729,7 +1876,8 @@
         "category": [
             "dancing melody",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "desire for all that is lost"
@@ -1741,7 +1889,8 @@
         "category": [
             "dancing melody",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "desire for all that is lost"
@@ -1753,7 +1902,8 @@
         "category": [
             "dancing melody",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "desire for all that is lost"
@@ -1765,7 +1915,8 @@
         "category": [
             "timeless river",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "monochrome dreams"
@@ -1777,7 +1928,8 @@
         "category": [
             "timeless river",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "monochrome dreams"
@@ -1789,7 +1941,8 @@
         "category": [
             "timeless river",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "monochrome dreams"
@@ -1801,7 +1954,8 @@
         "category": [
             "timeless river",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "old friends, old rivals"
@@ -1813,7 +1967,8 @@
         "category": [
             "timeless river",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "old friends, old rivals"
@@ -1825,7 +1980,8 @@
         "category": [
             "timeless river",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "old friends, old rivals"
@@ -1837,7 +1993,8 @@
         "category": [
             "halloween town",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "what a surprise?!"
@@ -1849,7 +2006,8 @@
         "category": [
             "halloween town",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "what a surprise?!"
@@ -1861,7 +2019,8 @@
         "category": [
             "halloween town",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "what a surprise?!"
@@ -1873,7 +2032,8 @@
         "category": [
             "halloween town",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "happy holidays!"
@@ -1885,7 +2045,8 @@
         "category": [
             "halloween town",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "happy holidays!"
@@ -1897,7 +2058,8 @@
         "category": [
             "halloween town",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "happy holidays!"
@@ -1909,7 +2071,8 @@
         "category": [
             "tricksters' melody",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "rowdy rumble"
@@ -1921,7 +2084,8 @@
         "category": [
             "tricksters' melody",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "rowdy rumble"
@@ -1933,7 +2097,8 @@
         "category": [
             "tricksters' melody",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "rowdy rumble"
@@ -1945,7 +2110,8 @@
         "category": [
             "radiant garden",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "reviving hollow bastion"
@@ -1957,7 +2123,8 @@
         "category": [
             "radiant garden",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "reviving hollow bastion"
@@ -1969,18 +2136,21 @@
         "category": [
             "radiant garden",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "reviving hollow bastion"
-        ]
+        ],
+        "progression": true
     },
     {
         "name": "scherzo di notte easy",
         "category": [
             "radiant garden",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "scherzo di notte"
@@ -1992,7 +2162,8 @@
         "category": [
             "radiant garden",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "scherzo di notte"
@@ -2004,7 +2175,8 @@
         "category": [
             "radiant garden",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "scherzo di notte"
@@ -2016,7 +2188,8 @@
         "category": [
             "space paranoids",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "space paranoids"
@@ -2028,7 +2201,8 @@
         "category": [
             "space paranoids",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "space paranoids"
@@ -2040,7 +2214,8 @@
         "category": [
             "space paranoids",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "space paranoids"
@@ -2052,18 +2227,21 @@
         "category": [
             "space paranoids",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "byte bashing"
-        ]
+        ],
+        "progression": true
     },
     {
         "name": "byte bashing medium",
         "category": [
             "space paranoids",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "byte bashing"
@@ -2075,7 +2253,8 @@
         "category": [
             "space paranoids",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "byte bashing"
@@ -2087,7 +2266,8 @@
         "category": [
             "crushing melody",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "sinister shadows"
@@ -2099,7 +2279,8 @@
         "category": [
             "crushing melody",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "sinister shadows"
@@ -2111,7 +2292,8 @@
         "category": [
             "crushing melody",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "sinister shadows"
@@ -2123,7 +2305,8 @@
         "category": [
             "the world that never was",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "sacred moon"
@@ -2135,7 +2318,8 @@
         "category": [
             "the world that never was",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "sacred moon"
@@ -2147,7 +2331,8 @@
         "category": [
             "the world that never was",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "sacred moon"
@@ -2159,7 +2344,8 @@
         "category": [
             "the world that never was",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "deep drive"
@@ -2171,7 +2357,8 @@
         "category": [
             "the world that never was",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "deep drive"
@@ -2183,7 +2370,8 @@
         "category": [
             "the world that never was",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "deep drive"
@@ -2195,7 +2383,8 @@
         "category": [
             "melody of betrayal",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the 13th dilemma"
@@ -2207,7 +2396,8 @@
         "category": [
             "melody of betrayal",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the 13th dilemma"
@@ -2219,7 +2409,8 @@
         "category": [
             "melody of betrayal",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the 13th dilemma"
@@ -2231,7 +2422,8 @@
         "category": [
             "superior of the in-between",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "darkness of the unknown"
@@ -2243,7 +2435,8 @@
         "category": [
             "superior of the in-between",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "darkness of the unknown"
@@ -2255,7 +2448,8 @@
         "category": [
             "superior of the in-between",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "darkness of the unknown"
@@ -2267,7 +2461,8 @@
         "category": [
             "never land",
             "easy",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "secret of neverland"
@@ -2279,7 +2474,8 @@
         "category": [
             "never land",
             "medium",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "secret of neverland"
@@ -2291,7 +2487,8 @@
         "category": [
             "never land",
             "hard",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "secret of neverland"
@@ -2303,7 +2500,8 @@
         "category": [
             "never land",
             "easy",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "crossing to neverland"
@@ -2315,7 +2513,8 @@
         "category": [
             "never land",
             "medium",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "crossing to neverland"
@@ -2327,7 +2526,8 @@
         "category": [
             "never land",
             "hard",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "crossing to neverland"
@@ -2339,7 +2539,8 @@
         "category": [
             "soaring melody",
             "easy",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "fight and away"
@@ -2351,7 +2552,8 @@
         "category": [
             "soaring melody",
             "medium",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "fight and away"
@@ -2363,7 +2565,8 @@
         "category": [
             "soaring melody",
             "hard",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "fight and away"
@@ -2375,7 +2578,8 @@
         "category": [
             "melody of returning",
             "easy",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "vector to the heavens"
@@ -2387,7 +2591,8 @@
         "category": [
             "melody of returning",
             "medium",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "vector to the heavens"
@@ -2399,7 +2604,8 @@
         "category": [
             "melody of the dark path",
             "hard",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "vector to the heavens"
@@ -2411,7 +2617,8 @@
         "category": [
             "melody of the dark path",
             "easy",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "another side - battle ver. -"
@@ -2423,7 +2630,8 @@
         "category": [
             "melody of the dark path",
             "medium",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "another side - battle ver. -"
@@ -2435,7 +2643,8 @@
         "category": [
             "melody of the dark path",
             "hard",
-            "kh 358"
+            "kh 358",
+            "level"
         ],
         "requires": [
             "another side - battle ver. -"
@@ -2447,7 +2656,8 @@
         "category": [
             "system sector",
             "easy",
-            "kh recoded"
+            "kh recoded",
+            "level"
         ],
         "requires": [
             "wonder of electron"
@@ -2459,7 +2669,8 @@
         "category": [
             "system sector",
             "medium",
-            "kh recoded"
+            "kh recoded",
+            "level"
         ],
         "requires": [
             "wonder of electron"
@@ -2471,7 +2682,8 @@
         "category": [
             "system sector",
             "hard",
-            "kh recoded"
+            "kh recoded",
+            "level"
         ],
         "requires": [
             "wonder of electron"
@@ -2483,7 +2695,8 @@
         "category": [
             "system sector",
             "easy",
-            "kh recoded"
+            "kh recoded",
+            "level"
         ],
         "requires": [
             "no more bugs!!"
@@ -2495,7 +2708,8 @@
         "category": [
             "system sector",
             "medium",
-            "kh recoded"
+            "kh recoded",
+            "level"
         ],
         "requires": [
             "no more bugs!!"
@@ -2507,7 +2721,8 @@
         "category": [
             "system sector",
             "hard",
-            "kh recoded"
+            "kh recoded",
+            "level"
         ],
         "requires": [
             "no more bugs!!"
@@ -2519,7 +2734,8 @@
         "category": [
             "traverse town",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "traverse in trance"
@@ -2531,7 +2747,8 @@
         "category": [
             "traverse town",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "traverse in trance"
@@ -2543,7 +2760,8 @@
         "category": [
             "traverse town",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "traverse in trance"
@@ -2555,7 +2773,8 @@
         "category": [
             "traverse town",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "hand to hand"
@@ -2567,7 +2786,8 @@
         "category": [
             "traverse town",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "hand to hand"
@@ -2579,7 +2799,8 @@
         "category": [
             "traverse town",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "hand to hand"
@@ -2591,7 +2812,8 @@
         "category": [
             "la cite des cloches",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "la cloche"
@@ -2603,7 +2825,8 @@
         "category": [
             "la cite des cloches",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "la cloche"
@@ -2615,7 +2838,8 @@
         "category": [
             "la cite des cloches",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "la cloche"
@@ -2627,7 +2851,8 @@
         "category": [
             "la cite des cloches",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "le sanctuaire"
@@ -2639,7 +2864,8 @@
         "category": [
             "la cite des cloches",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "le sanctuaire"
@@ -2651,18 +2877,21 @@
         "category": [
             "la cite des cloches",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "le sanctuaire"
-        ]
+        ],
+        "progression": true
     },
     {
         "name": "majestic wings easy",
         "category": [
             "reverent melody",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "majestic wings"
@@ -2674,7 +2903,8 @@
         "category": [
             "reverent melody",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "majestic wings"
@@ -2686,7 +2916,8 @@
         "category": [
             "reverent melody",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "majestic wings"
@@ -2698,7 +2929,8 @@
         "category": [
             "the grid",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "access the grid"
@@ -2710,7 +2942,8 @@
         "category": [
             "the grid",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "access the grid"
@@ -2722,7 +2955,8 @@
         "category": [
             "the grid",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "access the grid"
@@ -2734,7 +2968,8 @@
         "category": [
             "the grid",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "digital domination"
@@ -2746,7 +2981,8 @@
         "category": [
             "the grid",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "digital domination"
@@ -2758,7 +2994,8 @@
         "category": [
             "the grid",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "digital domination"
@@ -2770,7 +3007,8 @@
         "category": [
             "prankster's paradise",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "the fun fair"
@@ -2782,7 +3020,8 @@
         "category": [
             "prankster's paradise",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "the fun fair"
@@ -2794,7 +3033,8 @@
         "category": [
             "prankster's paradise",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "the fun fair"
@@ -2802,11 +3042,12 @@
         "progression": true
     },
     {
-        "name": "prankster's paradise easy",
+        "name": "prankster's party easy",
         "category": [
             "prankster's paradise",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "prankster's paradise"
@@ -2814,11 +3055,12 @@
         "progression": true
     },
     {
-        "name": "prankster's paradise medium",
+        "name": "prankster's party medium",
         "category": [
             "prankster's paradise",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "prankster's paradise"
@@ -2826,11 +3068,12 @@
         "progression": true
     },
     {
-        "name": "prankster's paradise hard",
+        "name": "prankster's party hard",
         "category": [
             "prankster's paradise",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requprankster's paradiseires": [
             ""
@@ -2842,7 +3085,8 @@
         "category": [
             "country of musketeers",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "one for all"
@@ -2854,7 +3098,8 @@
         "category": [
             "country of musketeers",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "one for all"
@@ -2866,7 +3111,8 @@
         "category": [
             "country of musketeers",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "one for all"
@@ -2878,7 +3124,8 @@
         "category": [
             "country of musketeers",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "all for one"
@@ -2890,7 +3137,8 @@
         "category": [
             "country of musketeers",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "all for one"
@@ -2902,7 +3150,8 @@
         "category": [
             "country of musketeers",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "all for one"
@@ -2914,7 +3163,8 @@
         "category": [
             "the world that never was",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "sacred distance"
@@ -2926,7 +3176,8 @@
         "category": [
             "the world that never was",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "sacred distance"
@@ -2938,7 +3189,8 @@
         "category": [
             "the world that never was",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "sacred distance"
@@ -2950,7 +3202,8 @@
         "category": [
             "the world that never was",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "deep drop"
@@ -2962,18 +3215,21 @@
         "category": [
             "the world that never was",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "deep drop"
-        ]
+        ],
+        "progression": true
     },
     {
         "name": "deep drop hard",
         "category": [
             "the world that never was",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "deep drop"
@@ -2985,7 +3241,8 @@
         "category": [
             "melody of slumber",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "l'oscurita dell'ignoto"
@@ -2997,7 +3254,8 @@
         "category": [
             "melody of slumber",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "l'oscurita dell'ignoto"
@@ -3009,7 +3267,8 @@
         "category": [
             "melody of slumber",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "l'oscurita dell'ignoto"
@@ -3021,7 +3280,8 @@
         "category": [
             "temporal melody",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "l'impeto oscuro"
@@ -3033,7 +3293,8 @@
         "category": [
             "temporal melody",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "l'impeto oscuro"
@@ -3045,7 +3306,8 @@
         "category": [
             "temporal melody",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "l'impeto oscuro"
@@ -3057,7 +3319,8 @@
         "category": [
             "dreaming melody",
             "easy",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "the eye of darkness"
@@ -3069,7 +3332,8 @@
         "category": [
             "dreaming melody",
             "medium",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "the eye of darkness"
@@ -3081,7 +3345,8 @@
         "category": [
             "dreaming melody",
             "hard",
-            "kh ddd"
+            "kh ddd",
+            "level"
         ],
         "requires": [
             "the eye of darkness"
@@ -3093,7 +3358,8 @@
         "category": [
             "the land of departure",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the promised beginning"
@@ -3105,7 +3371,8 @@
         "category": [
             "the land of departure",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the promised beginning"
@@ -3117,7 +3384,8 @@
         "category": [
             "the land of departure",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the promised beginning"
@@ -3129,7 +3397,8 @@
         "category": [
             "the land of departure",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "future masters"
@@ -3141,7 +3410,8 @@
         "category": [
             "the land of departure",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "future masters"
@@ -3153,7 +3423,8 @@
         "category": [
             "the land of departure",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "future masters"
@@ -3165,7 +3436,8 @@
         "category": [
             "dwarf woodlands",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the secret whispers"
@@ -3177,7 +3449,8 @@
         "category": [
             "dwarf woodlands",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the secret whispers"
@@ -3189,7 +3462,8 @@
         "category": [
             "dwarf woodlands",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the secret whispers"
@@ -3201,7 +3475,8 @@
         "category": [
             "dwarf woodlands",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "risky romp"
@@ -3213,7 +3488,8 @@
         "category": [
             "dwarf woodlands",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "risky romp"
@@ -3225,7 +3501,8 @@
         "category": [
             "dwarf woodlands",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "risky romp"
@@ -3237,7 +3514,8 @@
         "category": [
             "castle of dreams",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "bibbidi-bobbidi-boo"
@@ -3249,7 +3527,8 @@
         "category": [
             "castle of dreams",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "bibbidi-bobbidi-boo"
@@ -3261,7 +3540,8 @@
         "category": [
             "castle of dreams",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "bibbidi-bobbidi-boo"
@@ -3273,7 +3553,8 @@
         "category": [
             "castle of dreams",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "castle escapade"
@@ -3285,7 +3566,8 @@
         "category": [
             "castle of dreams",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "castle escapade"
@@ -3297,7 +3579,8 @@
         "category": [
             "castle of dreams",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "castle escapade"
@@ -3309,7 +3592,8 @@
         "category": [
             "enchanted dominion",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the silent forest"
@@ -3321,7 +3605,8 @@
         "category": [
             "enchanted dominion",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the silent forest"
@@ -3333,7 +3618,8 @@
         "category": [
             "enchanted dominion",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the silent forest"
@@ -3345,7 +3631,8 @@
         "category": [
             "enchanted dominion",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the rustling forest"
@@ -3357,7 +3644,8 @@
         "category": [
             "enchanted dominion",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the rustling forest"
@@ -3369,7 +3657,8 @@
         "category": [
             "enchanted dominion",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the rustling forest"
@@ -3381,7 +3670,8 @@
         "category": [
             "disney town",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "mickey mouse march"
@@ -3393,7 +3683,8 @@
         "category": [
             "disney town",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "mickey mouse march"
@@ -3405,7 +3696,8 @@
         "category": [
             "disney town",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "mickey mouse march"
@@ -3417,7 +3709,8 @@
         "category": [
             "disney town",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "up down adventure"
@@ -3429,7 +3722,8 @@
         "category": [
             "disney town",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "up down adventure"
@@ -3441,7 +3735,8 @@
         "category": [
             "disney town",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "up down adventure"
@@ -3453,7 +3748,8 @@
         "category": [
             "never land",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "daydream upon neverland"
@@ -3465,7 +3761,8 @@
         "category": [
             "never land",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "daydream upon neverland"
@@ -3477,7 +3774,8 @@
         "category": [
             "never land",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "daydream upon neverland"
@@ -3489,7 +3787,8 @@
         "category": [
             "never land",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "neverland's scherzo"
@@ -3501,7 +3800,8 @@
         "category": [
             "never land",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "neverland's scherzo"
@@ -3513,7 +3813,8 @@
         "category": [
             "never land",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "neverland's scherzo"
@@ -3525,7 +3826,8 @@
         "category": [
             "negative melody",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the tumbling"
@@ -3537,7 +3839,8 @@
         "category": [
             "negative melody",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the tumbling"
@@ -3549,7 +3852,8 @@
         "category": [
             "negative melody",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the tumbling"
@@ -3561,7 +3865,8 @@
         "category": [
             "radiant garden",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "radiant garden"
@@ -3573,7 +3878,8 @@
         "category": [
             "radiant garden",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "radiant garden"
@@ -3585,7 +3891,8 @@
         "category": [
             "radiant garden",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "radiant garden"
@@ -3597,7 +3904,8 @@
         "category": [
             "radiant garden",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "black garden"
@@ -3609,7 +3917,8 @@
         "category": [
             "radiant garden",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "black garden"
@@ -3621,7 +3930,8 @@
         "category": [
             "radiant garden",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "black garden"
@@ -3633,7 +3943,8 @@
         "category": [
             "deep space",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "hau'oli, hau'oli"
@@ -3645,7 +3956,8 @@
         "category": [
             "deep space",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "hau'oli, hau'oli"
@@ -3657,7 +3969,8 @@
         "category": [
             "deep space",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "hau'oli, hau'oli"
@@ -3669,7 +3982,8 @@
         "category": [
             "deep space",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "makaukau?"
@@ -3681,7 +3995,8 @@
         "category": [
             "deep space",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "makaukau?"
@@ -3693,7 +4008,8 @@
         "category": [
             "deep space",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "makaukau?"
@@ -3705,7 +4021,8 @@
         "category": [
             "evil fairy",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the encounter -birth by sleep version-"
@@ -3717,7 +4034,8 @@
         "category": [
             "evil fairy",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the encounter -birth by sleep version-"
@@ -3729,7 +4047,8 @@
         "category": [
             "evil fairy",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "the encounter -birth by sleep version-"
@@ -3741,7 +4060,8 @@
         "category": [
             "melody of culmination",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "black powder"
@@ -3753,7 +4073,8 @@
         "category": [
             "melody of culmination",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "black powder"
@@ -3765,7 +4086,8 @@
         "category": [
             "melody of culmination",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "black powder"
@@ -3777,7 +4099,8 @@
         "category": [
             "melody of pure darkness",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "enter the darkness"
@@ -3789,7 +4112,8 @@
         "category": [
             "melody of pure darkness",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "enter the darkness"
@@ -3801,7 +4125,8 @@
         "category": [
             "melody of pure darkness",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "enter the darkness"
@@ -3813,7 +4138,8 @@
         "category": [
             "melody of will",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "rage awakened -the origin-"
@@ -3825,7 +4151,8 @@
         "category": [
             "melody of will",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "rage awakened -the origin-"
@@ -3837,7 +4164,8 @@
         "category": [
             "melody of will",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "rage awakened -the origin-"
@@ -3849,7 +4177,8 @@
         "category": [
             "unwavering melody",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "dismiss"
@@ -3861,7 +4190,8 @@
         "category": [
             "unwavering melody",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "dismiss"
@@ -3873,7 +4203,8 @@
         "category": [
             "unwavering melody",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "dismiss"
@@ -3885,7 +4216,8 @@
         "category": [
             "one-winged melody",
             "easy",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "one-winged angel (from final fantasy vii)"
@@ -3897,7 +4229,8 @@
         "category": [
             "one-winged melody",
             "medium",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "one-winged angel (from final fantasy vii)"
@@ -3909,7 +4242,8 @@
         "category": [
             "one-winged melody",
             "hard",
-            "kh 1"
+            "kh 1",
+            "level"
         ],
         "requires": [
             "one-winged angel (from final fantasy vii)"
@@ -3921,7 +4255,8 @@
         "category": [
             "melody of clashing keys",
             "easy",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the other promise"
@@ -3933,7 +4268,8 @@
         "category": [
             "melody of clashing keys",
             "medium",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the other promise"
@@ -3945,7 +4281,8 @@
         "category": [
             "melody of clashing keys",
             "hard",
-            "kh 2"
+            "kh 2",
+            "level"
         ],
         "requires": [
             "the other promise"
@@ -3957,7 +4294,8 @@
         "category": [
             "lingering melody",
             "easy",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "rage awakened"
@@ -3969,7 +4307,8 @@
         "category": [
             "lingering melody",
             "medium",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "rage awakened"
@@ -3981,7 +4320,8 @@
         "category": [
             "lingering melody",
             "hard",
-            "kh bbs"
+            "kh bbs",
+            "level"
         ],
         "requires": [
             "rage awakened"
@@ -3993,7 +4333,8 @@
         "category": [
             "toy box",
             "easy",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "you've got a friend in me -kingdom hearts iii version-"
@@ -4005,7 +4346,8 @@
         "category": [
             "toy box",
             "medium",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "you've got a friend in me -kingdom hearts iii version-"
@@ -4017,7 +4359,8 @@
         "category": [
             "toy box",
             "hard",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "you've got a friend in me -kingdom hearts iii version-"
@@ -4029,7 +4372,8 @@
         "category": [
             "kingdom of corona",
             "easy",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "happy hair day"
@@ -4041,7 +4385,8 @@
         "category": [
             "kingdom of corona",
             "medium",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "happy hair day"
@@ -4053,7 +4398,8 @@
         "category": [
             "kingdom of corona",
             "hard",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "happy hair day"
@@ -4065,7 +4411,8 @@
         "category": [
             "monstropolis",
             "easy",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "monster smash!"
@@ -4077,7 +4424,8 @@
         "category": [
             "monstropolis",
             "medium",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "monster smash!"
@@ -4089,7 +4437,8 @@
         "category": [
             "monstropolis",
             "hard",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "monster smash!"
@@ -4101,7 +4450,8 @@
         "category": [
             "arendelle",
             "easy",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "let it go"
@@ -4113,7 +4463,8 @@
         "category": [
             "arendelle",
             "medium",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "let it go"
@@ -4125,7 +4476,8 @@
         "category": [
             "arendelle",
             "hard",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "let it go"
@@ -4137,7 +4489,8 @@
         "category": [
             "san fransokyo",
             "easy",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "robot overdrive"
@@ -4149,7 +4502,8 @@
         "category": [
             "san fransokyo",
             "medium",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "robot overdrive"
@@ -4161,7 +4515,8 @@
         "category": [
             "san fransokyo",
             "hard",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "robot overdrive"
@@ -4173,7 +4528,8 @@
         "category": [
             "keyblade graveyard",
             "easy",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "graveyard labyrinth"
@@ -4185,7 +4541,8 @@
         "category": [
             "keyblade graveyard",
             "medium",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "graveyard labyrinth"
@@ -4197,7 +4554,8 @@
         "category": [
             "keyblade graveyard",
             "hard",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "graveyard labyrinth"
@@ -4209,7 +4567,8 @@
         "category": [
             "melody of past light",
             "easy",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "rise of the union"
@@ -4221,7 +4580,8 @@
         "category": [
             "melody of past light",
             "medium",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "rise of the union"
@@ -4233,7 +4593,8 @@
         "category": [
             "melody of past light",
             "hard",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "rise of the union"
@@ -4245,7 +4606,8 @@
         "category": [
             "melody of memory's end",
             "easy",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "dark domination"
@@ -4257,7 +4619,8 @@
         "category": [
             "melody of memory's end",
             "medium",
-            "kh3"
+            "kh3",
+            "level"
         ],
         "requires": [
             "dark domination"
@@ -4269,12 +4632,714 @@
         "category": [
             "melody of memory's end",
             "hard",
-            "kh3"
+            "kh3",
+            "level",
+            "finale"
         ],
         "requires": [
             "dark domination"
         ],
         "progression": true
+    },
+
+    {
+        "name": "writhing melody",
+        "category": [
+            "world",
+            "kh 0.2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "destiny islands",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of fate",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of destruction",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "traverse town",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of beginnings",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "wonderland",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "agrabah",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "atlantica",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "halloween town",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "olympus coliseum",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "monstro",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "neverland",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "hollow bastion",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "wicked melody",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "end of the world",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "seeker of darkness",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "castle oblivion",
+        "category": [
+            "world",
+            "kh recom"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody without a heart",
+        "category": [
+            "world",
+            "kh recom"
+        ],
+        "progression": true
+    },
+    {
+        "name": "false melody",
+        "category": [
+            "world",
+            "kh recom"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of oblivion",
+        "category": [
+            "world",
+            "kh recom"
+        ],
+        "progression": true
+    },
+    {
+        "name": "the other twilight town",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of waking",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "twilight town",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "the mysterious tower",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "the land of dragons",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "beast's castle",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "vim and vigor",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "olympus coliseum",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "pride lands",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "dancing melody",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "timeless river",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "halloween town",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "trickster's melody",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "radiant garden",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "space paranoids",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "crushing melody",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "the world that never was",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of betrayal",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "superior of the in-between",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "never land",
+        "category": [
+            "world",
+            "kh 358"
+        ],
+        "progression": true
+    },
+    {
+        "name": "soaring melody",
+        "category": [
+            "world",
+            "kh 358"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of returning",
+        "category": [
+            "world",
+            "kh 358"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of the dark path",
+        "category": [
+            "world",
+            "kh 358"
+        ],
+        "progression": true
+    },
+    {
+        "name": "system sector",
+        "category": [
+            "world",
+            "kh recoded"
+        ],
+        "progression": true
+    },
+    {
+        "name": "traverse town",
+        "category": [
+            "world",
+            "kh ddd"
+        ],
+        "progression": true
+    },
+    {
+        "name": "la cite des cloches",
+        "category": [
+            "world",
+            "kh ddd"
+        ],
+        "progression": true
+    },
+    {
+        "name": "reverent melody",
+        "category": [
+            "world",
+            "kh ddd"
+        ],
+        "progression": true
+    },
+    {
+        "name": "the grid",
+        "category": [
+            "world",
+            "kh ddd"
+        ],
+        "progression": true
+    },
+    {
+        "name": "prankster's paradise",
+        "category": [
+            "world",
+            "kh ddd"
+        ],
+        "progression": true
+    },
+    {
+        "name": "country of the musketeers",
+        "category": [
+            "world",
+            "kh ddd"
+        ],
+        "progression": true
+    },
+    {
+        "name": "the world that never was",
+        "category": [
+            "world",
+            "kh ddd"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of slumber",
+        "category": [
+            "world",
+            "kh ddd"
+        ],
+        "progression": true
+    },
+    {
+        "name": "temporal melody",
+        "category": [
+            "world",
+            "kh ddd"
+        ],
+        "progression": true
+    },
+    {
+        "name": "dreaming melody",
+        "category": [
+            "world",
+            "kh ddd"
+        ],
+        "progression": true
+    },
+    {
+        "name": "the land of departure",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "dwarf woodlands",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "castle of dreams",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "enchanted dominion",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "disney town",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "never land",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "negative melody",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "radiant garden",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "deep space",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "evil fairy",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of culmination",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of pure darkness",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of will",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "unwavering melody",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "one-winged melody",
+        "category": [
+            "world",
+            "kh 1"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of clashing keys",
+        "category": [
+            "world",
+            "kh 2"
+        ],
+        "progression": true
+    },
+    {
+        "name": "lingering melody",
+        "category": [
+            "world",
+            "kh bbs"
+        ],
+        "progression": true
+    },
+    {
+        "name": "toy box",
+        "category": [
+            "world",
+            "kh 3"
+        ],
+        "progression": true
+    },
+    {
+        "name": "kingdom of corona",
+        "category": [
+            "world",
+            "kh 3"
+        ],
+        "progression": true
+    },
+    {
+        "name": "monstropolis",
+        "category": [
+            "world",
+            "kh 3"
+        ],
+        "progression": true
+    },
+    {
+        "name": "arendelle",
+        "category": [
+            "world",
+            "kh 3"
+        ],
+        "progression": true
+    },
+    {
+        "name": "san fransokyo",
+        "category": [
+            "world",
+            "kh 3"
+        ],
+        "progression": true
+    },
+    {
+        "name": "keyblade graveyard",
+        "category": [
+            "world",
+            "kh 3"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of past light",
+        "category": [
+            "world",
+            "kh 3"
+        ],
+        "progression": true
+    },
+    {
+        "name": "melody of memory's end",
+        "category": [
+            "world",
+            "kh 3",
+            "finale"
+        ],
+        "progression": true
+    },
+
+    {
+        "name": "kh 0.2",
+        "category": "game",
+        "progression": true
+    },
+    {
+        "name": "kh 1",
+        "category": "game",
+        "progression": true
+    },
+    {
+        "name": "kh recom",
+        "category": "game",
+        "progression": true
+    },
+    {
+        "name": "kh 2",
+        "category": "game",
+        "progression": true
+    },
+    {
+        "name": "kh 358",
+        "category": "game",
+        "progression": true
+    },
+    {
+        "name": "kh recoded",
+        "category": "game",
+        "progression": true
+    },
+    {
+        "name": "kh ddd",
+        "category": "game",
+        "progression": true
+    },
+    {
+        "name": "kh bbs",
+        "category": "game",
+        "progression": true
+    },
+    {
+        "name": "kh 3",
+        "category": [
+            "game",
+            "finale"
+        ],
+        "progression": true
     }
+    
 
 ]
