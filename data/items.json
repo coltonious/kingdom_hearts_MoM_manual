@@ -41,10 +41,7 @@
     },
     {
         "name": "kh 3",
-        "category": [
-            "game",
-            "finale"
-        ],
+        "category": "game",
         "progression": true
     }
     
