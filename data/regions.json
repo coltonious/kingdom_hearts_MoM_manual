@@ -1,8 +1,8 @@
 {
-  "kh 0.2": {
+  "kh fragment": {
     "starting": true,
     "connects_to": [],
-    "requires": "kh 0.2"
+    "requires": "kh fragment"
   },
   "kh 1": {
     "starting": true,
