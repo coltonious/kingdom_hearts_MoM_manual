@@ -7,9 +7,9 @@ from .Items import item_table
 from .Game import starting_items
 
 
-class FillerTrapPercent(Range):
-    """How many fillers will be replaced with traps. 0 means no additional traps, 100 means all fillers are traps."""
-    range_end = 100
+##class FillerTrapPercent(Range):
+##    """How many fillers will be replaced with traps. 0 means no additional traps, 100 means all fillers are traps."""
+##    range_end = 100
 
 manual_options = before_options_defined({})
 
@@ -20,8 +20,8 @@ if len(victory_names) > 1:
     manual_options['goal'] = type('goal', (Choice,), goal)
     manual_options['goal'].__doc__ = "Choose your victory condition."
 
-if any(item.get('trap') for item in item_table):
-    manual_options["filler_traps"] = FillerTrapPercent
+##if any(item.get('trap') for item in item_table):
+##    manual_options["filler_traps"] = FillerTrapPercent
 
 if game_table.get("death_link"):
     manual_options["death_link"] = DeathLink
