@@ -9,9 +9,7 @@
         "requires": [
             "wave of darkness"
         ],
-        "region": [
-            "kh 0.2"
-        ]
+        "region": "kh 0.2"
     },
     {
         "name": "wave of darkness medium",
@@ -23,9 +21,7 @@
         "requires": [
             "wave of darkness"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 0.2"
     },
     {
         "name": "wave of darkness hard",
@@ -37,9 +33,7 @@
         "requires": [
             "wave of darkness"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 0.2"
     },
     {
         "name": "destiny islands easy",
@@ -51,9 +45,7 @@
         "requires": [
             "destiny islands"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "destiny islands medium",
@@ -65,9 +57,7 @@
         "requires": [
             "destiny islands"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "destiny islands hard",
@@ -79,9 +69,7 @@
         "requires": [
             "destiny islands"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "bustin' up the beach easy",
@@ -93,9 +81,7 @@
         "requires": [
             "bustin' up the beach"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name":"bustin' up the beach medium",
@@ -107,9 +93,7 @@
         "requires": [
             "bustin' up the beach"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name":"bustin' up the beach hard",
@@ -121,9 +105,7 @@
         "requires": [
             "bustin' up the beach"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "night of fate easy",
@@ -135,9 +117,7 @@
         "requires": [
             "night of fate"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "night of fate medium",
@@ -149,9 +129,7 @@
         "requires": [
             "night of fate"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "night of fate hard",
@@ -163,9 +141,7 @@
         "requires": [
             "night of fate"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "destiny's force easy",
@@ -177,9 +153,7 @@
         "requires": [
             "destiny's force"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "destiny's force medium",
@@ -202,9 +176,7 @@
         "requires": [
             "destiny's force"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "traverse town easy",
@@ -216,9 +188,7 @@
         "requires": [
             "traverse town"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "traverse town medium",
@@ -230,9 +200,7 @@
         "requires": [
             "traverse town"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "traverse town hard",
@@ -244,9 +212,7 @@
         "requires": [
             "traverse town"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "hand in hand easy",
@@ -258,9 +224,7 @@
         "requires": [
             "hand in hand"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "hand in hand medium",
@@ -272,9 +236,7 @@
         "requires": [
             "hand in hand"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "hand in hand hard",
@@ -286,9 +248,7 @@
         "requires": [
             "hand in hand"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "shrouding dark cloud easy",
@@ -300,9 +260,7 @@
         "requires": [
             "shrouding dark cloud"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "shrouding dark cloud medium",
@@ -314,9 +272,7 @@
         "requires": [
             "shrouding dark cloud"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "shrouding dark cloud hard",
@@ -328,9 +284,7 @@
         "requires": [
             "shrouding dark cloud"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "welcome to wonderland easy",
@@ -342,9 +296,7 @@
         "requires": [
             "welcome to wonderland"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "welcome to wonderland medium",
@@ -356,9 +308,7 @@
         "requires": [
             "welcome to wonderland"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "welcome to wonderland hard",
@@ -370,9 +320,7 @@
         "requires": [
             "welcome to wonderland"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "to our surprise easy",
@@ -384,9 +332,7 @@
         "requires": [
             "to our surprise"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "to our surprise medium",
@@ -398,9 +344,7 @@
         "requires": [
             "to our surprise"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "to our surprise hard",
@@ -423,9 +367,7 @@
         "requires": [
             "a day in agrabah"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "a day in agrabah medium",
@@ -437,9 +379,7 @@
         "requires": [
             "a day in agrabah"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "a day in agrabah hard",
@@ -451,9 +391,7 @@
         "requires": [
             "a day in agrabah"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "arabian dream easy",
@@ -465,9 +403,7 @@
         "requires": [
             "arabian dream"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "arabian dream medium",
@@ -479,9 +415,7 @@
         "requires": [
             "arabian dream"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "arabian dream hard",
@@ -493,9 +427,7 @@
         "requires": [
             "arabian dream"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "under the sea easy",
@@ -507,9 +439,7 @@
         "requires": [
             "under the sea"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "under the sea medium",
@@ -532,9 +462,7 @@
         "requires": [
             "under the sea"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "an adventure in atlantica easy",
@@ -546,9 +474,7 @@
         "requires": [
             "an adventure in atlantica"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "an adventure in atlantica medium",
@@ -560,9 +486,7 @@
         "requires": [
             "an adventure in atlantica"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "an adventure in atlantica hard",
@@ -574,9 +498,7 @@
         "requires": [
             "an adventure in atlantica"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "this is halloween easy",
@@ -588,9 +510,7 @@
         "requires": [
             "this is halloween"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "this is halloween medium",
@@ -602,9 +522,7 @@
         "requires": [
             "this is halloween"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "this is halloween hard",
@@ -616,9 +534,7 @@
         "requires": [
             "this is halloween"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "spooks of halloween town easy",
@@ -630,9 +546,7 @@
         "requires": [
             "spooks of halloween town"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "spooks of halloween town medium",
@@ -644,9 +558,7 @@
         "requires": [
             "spooks of halloween town"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "spooks of halloween town hard",
@@ -669,9 +581,7 @@
         "requires": [
             "olympus coliseum"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "olympus coliseum medium",
@@ -683,9 +593,7 @@
         "requires": [
             "olympus coliseum"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "olympus coliseum hard",
@@ -697,9 +605,7 @@
         "requires": [
             "olympus coliseum"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "go for it! easy",
@@ -711,9 +617,7 @@
         "requires": [
             "go for it!"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "go for it! medium",
@@ -725,9 +629,7 @@
         "requires": [
             "go for it!"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "go for it! hard",
@@ -739,9 +641,7 @@
         "requires": [
             "go for it!"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "a very small wish easy",
@@ -764,9 +664,7 @@
         "requires": [
             "a very small wish"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "a very small wish hard",
@@ -778,9 +676,7 @@
         "requires": [
             "a very small wish"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "monstrous monstro easy",
@@ -792,9 +688,7 @@
         "requires": [
             "monstrous monstro"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "monstrous monstro medium",
@@ -806,9 +700,7 @@
         "requires": [
             "monstrous monstro"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "monstrous monstro hard",
@@ -820,9 +712,7 @@
         "requires": [
             "monstrous monstro"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "captain hook's pirate ship easy",
@@ -834,9 +724,7 @@
         "requires": [
             "captain hook's pirate ship"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "captain hook's pirate ship medium",
@@ -848,9 +736,7 @@
         "requires": [
             "captain hook's pirate ship"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "captain hook's pirate ship hard",
@@ -862,9 +748,7 @@
         "requires": [
             "captain hook's pirate ship"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "pirate's gigue easy",
@@ -876,9 +760,7 @@
         "requires": [
             "pirate's gigue"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "pirate's gigue medium",
@@ -890,9 +772,7 @@
         "requires": [
             "pirate's gigue"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "pirate's gigue hard",
@@ -904,9 +784,7 @@
         "requires": [
             "pirate's gigue"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "hollow bastion easy",
@@ -918,9 +796,7 @@
         "requires": [
             "hollow bastion"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "hollow bastion medium",
@@ -932,9 +808,7 @@
         "requires": [
             "hollow bastion"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "hollow bastion hard",
@@ -946,9 +820,7 @@
         "requires": [
             "hollow bastion"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "scherzo di notte easy",
@@ -960,9 +832,7 @@
         "requires": [
             "scherzo di notte"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "scherzo di notte medium",
@@ -974,9 +844,7 @@
         "requires": [
             "scherzo di notte"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "scherzo di notte hard",
@@ -988,9 +856,7 @@
         "requires": [
             "scherzo di notte"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "squirming evil easy",
@@ -1002,9 +868,7 @@
         "requires": [
             "squirming evil"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "squirming evil medium",
@@ -1016,9 +880,7 @@
         "requires": [
             "squirming evil"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "squirming evil hard",
@@ -1030,9 +892,7 @@
         "requires": [
             "squirming evil"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "end of the world easy",
@@ -1044,9 +904,7 @@
         "requires": [
             "end of the world"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "end of the world medium",
@@ -1058,9 +916,7 @@
         "requires": [
             "end of the world"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "end of the world hard",
@@ -1072,9 +928,7 @@
         "requires": [
             "end of the world"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "fragments of sorrow easy",
@@ -1086,9 +940,7 @@
         "requires": [
             "fragments of sorrow"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "fragments of sorrow medium",
@@ -1100,9 +952,7 @@
         "requires": [
             "fragments of sorrow"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "fragments of sorrow hard",
@@ -1114,9 +964,7 @@
         "requires": [
             "fragments of sorrow"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "guardando nel buio easy",
@@ -1128,9 +976,7 @@
         "requires": [
             "guardando nel buio"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "guardando nel buio medium",
@@ -1142,9 +988,7 @@
         "requires": [
             "guardando nel buio"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "guardando nel buio hard",
@@ -1156,9 +1000,7 @@
         "requires": [
             "guardando nel buio"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "castle oblivion easy",
@@ -1170,9 +1012,7 @@
         "requires": [
             "castle oblivion"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "castle oblivion medium",
@@ -1184,9 +1024,7 @@
         "requires": [
             "castle oblivion"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "castle oblivion hard",
@@ -1198,9 +1036,7 @@
         "requires": [
             "castle oblivion"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "forgotten challenge easy",
@@ -1212,9 +1048,7 @@
         "requires": [
             "forgotten challenge"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "forgotten challenge medium",
@@ -1226,9 +1060,7 @@
         "requires": [
             "forgotten challenge"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "forgotten challenge hard",
@@ -1240,9 +1072,7 @@
         "requires": [
             "forgotten challenge"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "the 13th struggle easy",
@@ -1254,9 +1084,7 @@
         "requires": [
             "the 13th struggle"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "the 13th struggle medium",
@@ -1268,9 +1096,7 @@
         "requires": [
             "the 13th struggle"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "the 13th struggle hard",
@@ -1282,9 +1108,7 @@
         "requires": [
             "the 13th struggle"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "the force in you easy",
@@ -1296,9 +1120,7 @@
         "requires": [
             "the force in you"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "the force in you medium",
@@ -1310,9 +1132,7 @@
         "requires": [
             "the force in you"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "the force in you hard",
@@ -1324,9 +1144,7 @@
         "requires": [
             "the force in you"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "lord of the castle easy",
@@ -1338,9 +1156,7 @@
         "requires": [
             "lord of the castle"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "lord of the castle medium",
@@ -1352,9 +1168,7 @@
         "requires": [
             "lord of the castle"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "lord of the castle hard",
@@ -1366,9 +1180,7 @@
         "requires": [
             "lord of the castle"
         ],
-        "region": [
-            "kh recom"
-        ]
+        "region": "kh recom"
     },
     {
         "name": "lazy afternoons easy",
@@ -1380,9 +1192,7 @@
         "requires": [
             "lazy afternoons"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "lazy afternoons medium",
@@ -1394,9 +1204,7 @@
         "requires": [
             "lazy afternoons"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "lazy afternoons hard",
@@ -1408,9 +1216,7 @@
         "requires": [
             "lazy afternoons"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "sinister sundown easy",
@@ -1422,9 +1228,7 @@
         "requires": [
             "sinister sundown"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "sinister sundown medium",
@@ -1436,9 +1240,7 @@
         "requires": [
             "sinister sundown"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "sinister sundown hard",
@@ -1450,9 +1252,7 @@
         "requires": [
             "sinister sundown"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "tension rising easy",
@@ -1464,9 +1264,7 @@
         "requires": [
             "tension rising"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "tension rising medium",
@@ -1478,9 +1276,7 @@
         "requires": [
             "tension rising"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "tension rising hard",
@@ -1492,9 +1288,7 @@
         "requires": [
             "tension rising"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the afternoon streets easy",
@@ -1506,9 +1300,7 @@
         "requires": [
             "the afternoon streets"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the afternoon streets medium",
@@ -1520,9 +1312,7 @@
         "requires": [
             "the afternoon streets"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the afternoon streets hard",
@@ -1534,9 +1324,7 @@
         "requires": [
             "the afternoon streets"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "working together easy",
@@ -1548,9 +1336,7 @@
         "requires": [
             "working together"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "working together medium",
@@ -1562,9 +1348,7 @@
         "requires": [
             "working together"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "working together hard",
@@ -1576,9 +1360,7 @@
         "requires": [
             "working together"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "magical mystery easy",
@@ -1601,9 +1383,7 @@
         "requires": [
             "magical mystery"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "magical mystery hard",
@@ -1615,9 +1395,7 @@
         "requires": [
             "magical mystery"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the home of dragons easy",
@@ -1629,9 +1407,7 @@
         "requires": [
             "the home of dragons"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the home of dragons medium",
@@ -1643,9 +1419,7 @@
         "requires": [
             "the home of dragons"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the home of dragons hard",
@@ -1657,9 +1431,7 @@
         "requires": [
             "the home of dragons"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "fields of honor easy",
@@ -1671,9 +1443,7 @@
         "requires": [
             "fields of honor"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "fields of honor medium",
@@ -1685,9 +1455,7 @@
         "requires": [
             "fields of honor"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "fields of honor hard",
@@ -1699,9 +1467,7 @@
         "requires": [
             "fields of honor"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "waltz of the dammed easy",
@@ -1713,9 +1479,7 @@
         "requires": [
             "waltz of the dammed"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "waltz of the dammed medium",
@@ -1727,9 +1491,7 @@
         "requires": [
             "waltz of the dammed"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "waltz of the dammed hard",
@@ -1741,9 +1503,7 @@
         "requires": [
             "waltz of the dammed"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "dance of the daring easy",
@@ -1755,9 +1515,7 @@
         "requires": [
             "dance of the daring"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "dance of the daring medium",
@@ -1769,9 +1527,7 @@
         "requires": [
             "dance of the daring"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "dance of the daring hard",
@@ -1783,9 +1539,7 @@
         "requires": [
             "dance of the daring"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "vim and vigor easy",
@@ -1797,9 +1551,7 @@
         "requires": [
             "vim and vigor"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "vim and vigor medium",
@@ -1811,9 +1563,7 @@
         "requires": [
             "vim and vigor"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "vim and vigor hard",
@@ -1825,9 +1575,7 @@
         "requires": [
             "vim and vigor"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the underworld easy",
@@ -1839,9 +1587,7 @@
         "requires": [
             "the underworld"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the underworld medium",
@@ -1853,9 +1599,7 @@
         "requires": [
             "the underworld"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the underworld hard",
@@ -1867,9 +1611,7 @@
         "requires": [
             "the underworld"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "what lies beneath easy",
@@ -1881,9 +1623,7 @@
         "requires": [
             "what lies beneath"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "what lies beneath medium",
@@ -1895,9 +1635,7 @@
         "requires": [
             "what lies beneath"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "what lies beneath hard",
@@ -1909,9 +1647,7 @@
         "requires": [
             "what lies beneath"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "adventures in the savannah easy",
@@ -1923,9 +1659,7 @@
         "requires": [
             "adventures in the savannah"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "adventures in the savannah medium",
@@ -1937,9 +1671,7 @@
         "requires": [
             "adventures in the savannah"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "adventures in the savannah hard",
@@ -1951,9 +1683,7 @@
         "requires": [
             "adventures in the savannah"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "savannah pride easy",
@@ -1965,9 +1695,7 @@
         "requires": [
             "savannah pride"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "savannah pride medium",
@@ -1979,9 +1707,7 @@
         "requires": [
             "savannah pride"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "savannah pride hard",
@@ -1993,9 +1719,7 @@
         "requires": [
             "savannah pride"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "desire for all that is lost easy",
@@ -2007,9 +1731,7 @@
         "requires": [
             "desire for all that is lost"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "desire for all that is lost medium",
@@ -2021,9 +1743,7 @@
         "requires": [
             "desire for all that is lost"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "desire for all that is lost hard",
@@ -2035,9 +1755,7 @@
         "requires": [
             "desire for all that is lost"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "monochrome dreams easy",
@@ -2049,9 +1767,7 @@
         "requires": [
             "monochrome dreams"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "monochrome dreams medium",
@@ -2063,9 +1779,7 @@
         "requires": [
             "monochrome dreams"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "monochrome dreams hard",
@@ -2077,9 +1791,7 @@
         "requires": [
             "monochrome dreams"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "old friends, old rivals easy",
@@ -2091,9 +1803,7 @@
         "requires": [
             "old friends, old rivals"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "old friends, old rivals medium",
@@ -2105,9 +1815,7 @@
         "requires": [
             "old friends, old rivals"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "old friends, old rivals hard",
@@ -2119,9 +1827,7 @@
         "requires": [
             "old friends, old rivals"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "what a surprise?! easy",
@@ -2133,9 +1839,7 @@
         "requires": [
             "what a surprise?!"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "what a surprise?! medium",
@@ -2147,9 +1851,7 @@
         "requires": [
             "what a surprise?!"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "what a surprise?! hard",
@@ -2161,9 +1863,7 @@
         "requires": [
             "what a surprise?!"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "happy holidays! easy",
@@ -2175,9 +1875,7 @@
         "requires": [
             "happy holidays!"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "happy holidays! medium",
@@ -2189,9 +1887,7 @@
         "requires": [
             "happy holidays!"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "happy holidays! hard",
@@ -2203,9 +1899,7 @@
         "requires": [
             "happy holidays!"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "rowdy rumble easy",
@@ -2217,9 +1911,7 @@
         "requires": [
             "rowdy rumble"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "rowdy rumble medium",
@@ -2231,9 +1923,7 @@
         "requires": [
             "rowdy rumble"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "rowdy rumble hard",
@@ -2245,9 +1935,7 @@
         "requires": [
             "rowdy rumble"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "reviving hollow bastion easy",
@@ -2259,9 +1947,7 @@
         "requires": [
             "reviving hollow bastion"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "reviving hollow bastion medium",
@@ -2273,9 +1959,7 @@
         "requires": [
             "reviving hollow bastion"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "reviving hollow bastion hard",
@@ -2287,9 +1971,7 @@
         "requires": [
             "reviving hollow bastion"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "scherzo di notte easy",
@@ -2301,9 +1983,7 @@
         "requires": [
             "scherzo di notte"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "scherzo di notte medium",
@@ -2315,9 +1995,7 @@
         "requires": [
             "scherzo di notte"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "scherzo di notte hard",
@@ -2329,9 +2007,7 @@
         "requires": [
             "scherzo di notte"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "space paranoids easy",
@@ -2343,9 +2019,7 @@
         "requires": [
             "space paranoids"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "space paranoids medium",
@@ -2357,9 +2031,7 @@
         "requires": [
             "space paranoids"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "space paranoids hard",
@@ -2371,9 +2043,7 @@
         "requires": [
             "space paranoids"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "byte bashing easy",
@@ -2385,9 +2055,7 @@
         "requires": [
             "byte bashing"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "byte bashing medium",
@@ -2399,9 +2067,7 @@
         "requires": [
             "byte bashing"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "byte bashing hard",
@@ -2413,9 +2079,7 @@
         "requires": [
             "byte bashing"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "sinister shadows easy",
@@ -2427,9 +2091,7 @@
         "requires": [
             "sinister shadows"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "sinister shadows medium",
@@ -2441,9 +2103,7 @@
         "requires": [
             "sinister shadows"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "sinister shadows hard",
@@ -2455,9 +2115,7 @@
         "requires": [
             "sinister shadows"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "sacred moon easy",
@@ -2469,9 +2127,7 @@
         "requires": [
             "sacred moon"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "sacred moon medium",
@@ -2483,9 +2139,7 @@
         "requires": [
             "sacred moon"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "sacred moon hard",
@@ -2497,9 +2151,7 @@
         "requires": [
             "sacred moon"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "deep drive easy",
@@ -2511,9 +2163,7 @@
         "requires": [
             "deep drive"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "deep drive medium",
@@ -2525,9 +2175,7 @@
         "requires": [
             "deep drive"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "deep drive hard",
@@ -2539,9 +2187,7 @@
         "requires": [
             "deep drive"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the 13th dilemma easy",
@@ -2553,9 +2199,7 @@
         "requires": [
             "the 13th dilemma"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the 13th dilemma medium",
@@ -2567,9 +2211,7 @@
         "requires": [
             "the 13th dilemma"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the 13th dilemma hard",
@@ -2581,9 +2223,7 @@
         "requires": [
             "the 13th dilemma"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "darkness of the unknown easy",
@@ -2595,9 +2235,7 @@
         "requires": [
             "darkness of the unknown"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "darkness of the unknown medium",
@@ -2609,9 +2247,7 @@
         "requires": [
             "darkness of the unknown"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "darkness of the unknown hard",
@@ -2623,9 +2259,7 @@
         "requires": [
             "darkness of the unknown"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "secret of neverland easy",
@@ -2637,9 +2271,7 @@
         "requires": [
             "secret of neverland"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "secret of neverland medium",
@@ -2651,9 +2283,7 @@
         "requires": [
             "secret of neverland"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "secret of neverland hard",
@@ -2665,9 +2295,7 @@
         "requires": [
             "secret of neverland"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "crossing to neverland easy",
@@ -2679,9 +2307,7 @@
         "requires": [
             "crossing to neverland"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "crossing to neverland medium",
@@ -2693,9 +2319,7 @@
         "requires": [
             "crossing to neverland"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "crossing to neverland hard",
@@ -2707,9 +2331,7 @@
         "requires": [
             "crossing to neverland"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "fight and away easy",
@@ -2721,9 +2343,7 @@
         "requires": [
             "fight and away"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "fight and away medium",
@@ -2735,9 +2355,7 @@
         "requires": [
             "fight and away"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "fight and away hard",
@@ -2749,9 +2367,7 @@
         "requires": [
             "fight and away"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "vector to the heavens easy",
@@ -2763,9 +2379,7 @@
         "requires": [
             "vector to the heavens"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "vector to the heavens medium",
@@ -2777,9 +2391,7 @@
         "requires": [
             "vector to the heavens"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "vector to the heavens hard",
@@ -2791,9 +2403,7 @@
         "requires": [
             "vector to the heavens"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "another side - battle ver. - easy",
@@ -2805,9 +2415,7 @@
         "requires": [
             "another side - battle ver. -"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "another side - battle ver. - medium",
@@ -2819,9 +2427,7 @@
         "requires": [
             "another side - battle ver. -"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "another side - battle ver. - hard",
@@ -2833,9 +2439,7 @@
         "requires": [
             "another side - battle ver. -"
         ],
-        "region": [
-            "kh 358"
-        ]
+        "region": "kh 358"
     },
     {
         "name": "wonder of electron easy",
@@ -2847,9 +2451,7 @@
         "requires": [
             "wonder of electron"
         ],
-        "region": [
-            "kh recoded"
-        ]
+        "region": "kh recoded"
     },
     {
         "name": "wonder of electron medium",
@@ -2861,9 +2463,7 @@
         "requires": [
             "wonder of electron"
         ],
-        "region": [
-            "kh recoded"
-        ]
+        "region": "kh recoded"
     },
     {
         "name": "wonder of electron hard",
@@ -2875,9 +2475,7 @@
         "requires": [
             "wonder of electron"
         ],
-        "region": [
-            "kh recoded"
-        ]
+        "region": "kh recoded"
     },
     {
         "name": "no more bugs!! easy",
@@ -2889,9 +2487,7 @@
         "requires": [
             "no more bugs!!"
         ],
-        "region": [
-            "kh recoded"
-        ]
+        "region": "kh recoded"
     },
     {
         "name": "no more bugs!! medium",
@@ -2903,9 +2499,7 @@
         "requires": [
             "no more bugs!!"
         ],
-        "region": [
-            "kh recoded"
-        ]
+        "region": "kh recoded"
     },
     {
         "name": "no more bugs!! hard",
@@ -2917,9 +2511,7 @@
         "requires": [
             "no more bugs!!"
         ],
-        "region": [
-            "kh recoded"
-        ]
+        "region": "kh recoded"
     },
     {
         "name": "traverse in trance easy",
@@ -2931,9 +2523,7 @@
         "requires": [
             "traverse in trance"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "traverse in trance medium",
@@ -2945,9 +2535,7 @@
         "requires": [
             "traverse in trance"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "traverse in trance hard",
@@ -2959,9 +2547,7 @@
         "requires": [
             "traverse in trance"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "hand to hand easy",
@@ -2973,9 +2559,7 @@
         "requires": [
             "hand to hand"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "hand to hand medium",
@@ -2987,9 +2571,7 @@
         "requires": [
             "hand to hand"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "hand to hand hard",
@@ -3001,9 +2583,7 @@
         "requires": [
             "hand to hand"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "la cloche easy",
@@ -3015,9 +2595,7 @@
         "requires": [
             "la cloche"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "la cloche medium",
@@ -3029,9 +2607,7 @@
         "requires": [
             "la cloche"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "la cloche hard",
@@ -3043,9 +2619,7 @@
         "requires": [
             "la cloche"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "le sanctuaire easy",
@@ -3057,9 +2631,7 @@
         "requires": [
             "le sanctuaire"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "le sanctuaire medium",
@@ -3071,9 +2643,7 @@
         "requires": [
             "le sanctuaire"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "le sanctuaire hard",
@@ -3085,9 +2655,7 @@
         "requires": [
             "le sanctuaire"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "majestic wings easy",
@@ -3099,9 +2667,7 @@
         "requires": [
             "majestic wings"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "majestic wings medium",
@@ -3113,9 +2679,7 @@
         "requires": [
             "majestic wings"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "majestic wings hard",
@@ -3127,9 +2691,7 @@
         "requires": [
             "majestic wings"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "access the grid easy",
@@ -3141,9 +2703,7 @@
         "requires": [
             "access the grid"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "access the grid medium",
@@ -3155,9 +2715,7 @@
         "requires": [
             "access the grid"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "access the grid hard",
@@ -3169,9 +2727,7 @@
         "requires": [
             "access the grid"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "digital domination easy",
@@ -3183,9 +2739,7 @@
         "requires": [
             "digital domination"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "digital domination medium",
@@ -3197,9 +2751,7 @@
         "requires": [
             "digital domination"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "digital domination hard",
@@ -3211,9 +2763,7 @@
         "requires": [
             "digital domination"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "the fun fair easy",
@@ -3225,9 +2775,7 @@
         "requires": [
             "the fun fair"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "the fun fair medium",
@@ -3239,9 +2787,7 @@
         "requires": [
             "the fun fair"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "the fun fair hard",
@@ -3253,9 +2799,7 @@
         "requires": [
             "the fun fair"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "prankster's paradise easy",
@@ -3267,9 +2811,7 @@
         "requires": [
             "prankster's paradise"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "prankster's paradise medium",
@@ -3281,9 +2823,7 @@
         "requires": [
             "prankster's paradise"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "prankster's paradise hard",
@@ -3295,9 +2835,7 @@
         "requprankster's paradiseires": [
             ""
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "one for all easy",
@@ -3309,9 +2847,7 @@
         "requires": [
             "one for all"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "one for all medium",
@@ -3323,9 +2859,7 @@
         "requires": [
             "one for all"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "one for all hard",
@@ -3337,9 +2871,7 @@
         "requires": [
             "one for all"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "all for one easy",
@@ -3351,9 +2883,7 @@
         "requires": [
             "all for one"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "all for one medium",
@@ -3365,9 +2895,7 @@
         "requires": [
             "all for one"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "all for one hard",
@@ -3379,9 +2907,7 @@
         "requires": [
             "all for one"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "sacred distance easy",
@@ -3393,9 +2919,7 @@
         "requires": [
             "sacred distance"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "sacred distance medium",
@@ -3407,9 +2931,7 @@
         "requires": [
             "sacred distance"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "sacred distance hard",
@@ -3421,9 +2943,7 @@
         "requires": [
             "sacred distance"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "deep drop easy",
@@ -3435,9 +2955,7 @@
         "requires": [
             "deep drop"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "deep drop medium",
@@ -3449,9 +2967,7 @@
         "requires": [
             "deep drop"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "deep drop hard",
@@ -3463,9 +2979,7 @@
         "requires": [
             "deep drop"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "l'oscurita dell'ignoto easy",
@@ -3477,9 +2991,7 @@
         "requires": [
             "l'oscurita dell'ignoto"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "l'oscurita dell'ignoto medium",
@@ -3491,9 +3003,7 @@
         "requires": [
             "l'oscurita dell'ignoto"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "l'oscurita dell'ignoto hard",
@@ -3505,9 +3015,7 @@
         "requires": [
             "l'oscurita dell'ignoto"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "l'impeto oscuro easy",
@@ -3519,9 +3027,7 @@
         "requires": [
             "l'impeto oscuro"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "l'impeto oscuro medium",
@@ -3533,9 +3039,7 @@
         "requires": [
             "l'impeto oscuro"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "l'impeto oscuro hard",
@@ -3547,9 +3051,7 @@
         "requires": [
             "l'impeto oscuro"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "the eye of darkness easy",
@@ -3561,9 +3063,7 @@
         "requires": [
             "the eye of darkness"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "the eye of darkness medium",
@@ -3575,9 +3075,7 @@
         "requires": [
             "the eye of darkness"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "the eye of darkness hard",
@@ -3589,9 +3087,7 @@
         "requires": [
             "the eye of darkness"
         ],
-        "region": [
-            "kh ddd"
-        ]
+        "region": "kh ddd"
     },
     {
         "name": "the promised beginning easy",
@@ -3603,9 +3099,7 @@
         "requires": [
             "the promised beginning"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the promised beginning medium",
@@ -3617,9 +3111,7 @@
         "requires": [
             "the promised beginning"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the promised beginning hard",
@@ -3631,9 +3123,7 @@
         "requires": [
             "the promised beginning"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "future masters easy",
@@ -3645,9 +3135,7 @@
         "requires": [
             "future masters"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "future masters medium",
@@ -3659,9 +3147,7 @@
         "requires": [
             "future masters"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "future masters hard",
@@ -3673,9 +3159,7 @@
         "requires": [
             "future masters"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the secret whispers easy",
@@ -3687,9 +3171,7 @@
         "requires": [
             "the secret whispers"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the secret whispers medium",
@@ -3701,9 +3183,7 @@
         "requires": [
             "the secret whispers"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the secret whispers hard",
@@ -3715,9 +3195,7 @@
         "requires": [
             "the secret whispers"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "risky romp easy",
@@ -3729,9 +3207,7 @@
         "requires": [
             "risky romp"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "risky romp medium",
@@ -3743,9 +3219,7 @@
         "requires": [
             "risky romp"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "risky romp hard",
@@ -3757,9 +3231,7 @@
         "requires": [
             "risky romp"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "bibbidi-bobbidi-boo easy",
@@ -3771,9 +3243,7 @@
         "requires": [
             "bibbidi-bobbidi-boo"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "bibbidi-bobbidi-boo medium",
@@ -3785,9 +3255,7 @@
         "requires": [
             "bibbidi-bobbidi-boo"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "bibbidi-bobbidi-boo hard",
@@ -3799,9 +3267,7 @@
         "requires": [
             "bibbidi-bobbidi-boo"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "castle escapade easy",
@@ -3813,9 +3279,7 @@
         "requires": [
             "castle escapade"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "castle escapade medium",
@@ -3827,9 +3291,7 @@
         "requires": [
             "castle escapade"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "castle escapade hard",
@@ -3841,9 +3303,7 @@
         "requires": [
             "castle escapade"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the silent forest easy",
@@ -3855,9 +3315,7 @@
         "requires": [
             "the silent forest"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the silent forest medium",
@@ -3869,9 +3327,7 @@
         "requires": [
             "the silent forest"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the silent forest hard",
@@ -3883,9 +3339,7 @@
         "requires": [
             "the silent forest"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the rustling forest easy",
@@ -3897,9 +3351,7 @@
         "requires": [
             "the rustling forest"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the rustling forest medium",
@@ -3911,9 +3363,7 @@
         "requires": [
             "the rustling forest"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the rustling forest hard",
@@ -3925,9 +3375,7 @@
         "requires": [
             "the rustling forest"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "mickey mouse march easy",
@@ -3939,9 +3387,7 @@
         "requires": [
             "mickey mouse march"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "mickey mouse march medium",
@@ -3953,9 +3399,7 @@
         "requires": [
             "mickey mouse march"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "mickey mouse march hard",
@@ -3967,9 +3411,7 @@
         "requires": [
             "mickey mouse march"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "up down adventure easy",
@@ -3981,9 +3423,7 @@
         "requires": [
             "up down adventure"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "up down adventure medium",
@@ -3995,9 +3435,7 @@
         "requires": [
             "up down adventure"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "up down adventure hard",
@@ -4009,9 +3447,7 @@
         "requires": [
             "up down adventure"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "daydream upon neverland easy",
@@ -4023,9 +3459,7 @@
         "requires": [
             "daydream upon neverland"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "daydream upon neverland medium",
@@ -4037,9 +3471,7 @@
         "requires": [
             "daydream upon neverland"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "daydream upon neverland hard",
@@ -4051,9 +3483,7 @@
         "requires": [
             "daydream upon neverland"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "neverland's scherzo easy",
@@ -4065,9 +3495,7 @@
         "requires": [
             "neverland's scherzo"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "neverland's scherzo medium",
@@ -4079,9 +3507,7 @@
         "requires": [
             "neverland's scherzo"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "neverland's scherzo hard",
@@ -4093,9 +3519,7 @@
         "requires": [
             "neverland's scherzo"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the tumbling easy",
@@ -4107,9 +3531,7 @@
         "requires": [
             "the tumbling"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the tumbling medium",
@@ -4121,9 +3543,7 @@
         "requires": [
             "the tumbling"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the tumbling hard",
@@ -4135,9 +3555,7 @@
         "requires": [
             "the tumbling"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "radiant garden easy",
@@ -4149,9 +3567,7 @@
         "requires": [
             "radiant garden"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "radiant garden medium",
@@ -4163,9 +3579,7 @@
         "requires": [
             "radiant garden"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "radiant garden hard",
@@ -4177,9 +3591,7 @@
         "requires": [
             "radiant garden"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "black garden easy",
@@ -4191,9 +3603,7 @@
         "requires": [
             "black garden"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "black garden medium",
@@ -4205,9 +3615,7 @@
         "requires": [
             "black garden"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "black garden hard",
@@ -4219,9 +3627,7 @@
         "requires": [
             "black garden"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "hau'oli, hau'oli easy",
@@ -4233,9 +3639,7 @@
         "requires": [
             "hau'oli, hau'oli"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "hau'oli, hau'oli medium",
@@ -4247,9 +3651,7 @@
         "requires": [
             "hau'oli, hau'oli"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "hau'oli, hau'oli hard",
@@ -4261,9 +3663,7 @@
         "requires": [
             "hau'oli, hau'oli"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "makaukau? easy",
@@ -4275,9 +3675,7 @@
         "requires": [
             "makaukau?"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "makaukau? medium",
@@ -4289,9 +3687,7 @@
         "requires": [
             "makaukau?"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "makaukau? hard",
@@ -4303,9 +3699,7 @@
         "requires": [
             "makaukau?"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the encounter -birth by sleep version- easy",
@@ -4317,9 +3711,7 @@
         "requires": [
             "the encounter -birth by sleep version-"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the encounter -birth by sleep version- medium",
@@ -4331,9 +3723,7 @@
         "requires": [
             "the encounter -birth by sleep version-"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "the encounter -birth by sleep version- hard",
@@ -4345,9 +3735,7 @@
         "requires": [
             "the encounter -birth by sleep version-"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "black powder easy",
@@ -4359,9 +3747,7 @@
         "requires": [
             "black powder"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "black powder medium",
@@ -4373,9 +3759,7 @@
         "requires": [
             "black powder"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "black powder hard",
@@ -4387,9 +3771,7 @@
         "requires": [
             "black powder"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "enter the darkness easy",
@@ -4401,9 +3783,7 @@
         "requires": [
             "enter the darkness"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "enter the darkness medium",
@@ -4415,9 +3795,7 @@
         "requires": [
             "enter the darkness"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "enter the darkness hard",
@@ -4429,9 +3807,7 @@
         "requires": [
             "enter the darkness"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "rage awakened -the origin- easy",
@@ -4443,9 +3819,7 @@
         "requires": [
             "rage awakened -the origin-"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "rage awakened -the origin- medium",
@@ -4457,9 +3831,7 @@
         "requires": [
             "rage awakened -the origin-"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "rage awakened -the origin- hard",
@@ -4471,9 +3843,7 @@
         "requires": [
             "rage awakened -the origin-"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "dismiss easy",
@@ -4485,9 +3855,7 @@
         "requires": [
             "dismiss"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "dismiss medium",
@@ -4499,9 +3867,7 @@
         "requires": [
             "dismiss"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "dismiss hard",
@@ -4513,9 +3879,7 @@
         "requires": [
             "dismiss"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "one-winged angel (from final fantasy vii) easy",
@@ -4527,9 +3891,7 @@
         "requires": [
             "one-winged angel (from final fantasy vii)"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "one-winged angel (from final fantasy vii) medium",
@@ -4541,9 +3903,7 @@
         "requires": [
             "one-winged angel (from final fantasy vii)"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "one-winged angel (from final fantasy vii) hard",
@@ -4555,9 +3915,7 @@
         "requires": [
             "one-winged angel (from final fantasy vii)"
         ],
-        "region": [
-            "kh 1"
-        ]
+        "region": "kh 1"
     },
     {
         "name": "the other promise easy",
@@ -4569,9 +3927,7 @@
         "requires": [
             "the other promise"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the other promise medium",
@@ -4583,9 +3939,7 @@
         "requires": [
             "the other promise"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "the other promise hard",
@@ -4597,9 +3951,7 @@
         "requires": [
             "the other promise"
         ],
-        "region": [
-            "kh 2"
-        ]
+        "region": "kh 2"
     },
     {
         "name": "rage awakened easy",
@@ -4611,9 +3963,7 @@
         "requires": [
             "rage awakened"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "rage awakened medium",
@@ -4625,9 +3975,7 @@
         "requires": [
             "rage awakened"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "rage awakened hard",
@@ -4639,9 +3987,7 @@
         "requires": [
             "rage awakened"
         ],
-        "region": [
-            "kh bbs"
-        ]
+        "region": "kh bbs"
     },
     {
         "name": "you've got a friend in me -kingdom hearts iii version- easy",
@@ -4653,9 +3999,7 @@
         "requires": [
             "you've got a friend in me -kingdom hearts iii version-"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "you've got a friend in me -kingdom hearts iii version- medium",
@@ -4667,9 +4011,7 @@
         "requires": [
             "you've got a friend in me -kingdom hearts iii version-"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "you've got a friend in me -kingdom hearts iii version- hard",
@@ -4681,9 +4023,7 @@
         "requires": [
             "you've got a friend in me -kingdom hearts iii version-"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "happy hair day easy",
@@ -4695,9 +4035,7 @@
         "requires": [
             "happy hair day"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "happy hair day medium",
@@ -4709,9 +4047,7 @@
         "requires": [
             "happy hair day"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "happy hair day hard",
@@ -4723,9 +4059,7 @@
         "requires": [
             "happy hair day"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "monster smash! easy",
@@ -4737,9 +4071,7 @@
         "requires": [
             "monster smash!"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "monster smash! medium",
@@ -4751,9 +4083,7 @@
         "requires": [
             "monster smash!"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "monster smash! hard",
@@ -4765,9 +4095,7 @@
         "requires": [
             "monster smash!"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "let it go easy",
@@ -4779,9 +4107,7 @@
         "requires": [
             "let it go"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "let it go medium",
@@ -4793,9 +4119,7 @@
         "requires": [
             "let it go"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "let it go hard",
@@ -4807,9 +4131,7 @@
         "requires": [
             "let it go"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "robot overdrive easy",
@@ -4821,9 +4143,7 @@
         "requires": [
             "robot overdrive"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "robot overdrive medium",
@@ -4835,9 +4155,7 @@
         "requires": [
             "robot overdrive"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "robot overdrive hard",
@@ -4849,9 +4167,7 @@
         "requires": [
             "robot overdrive"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "graveyard labyrinth easy",
@@ -4863,9 +4179,7 @@
         "requires": [
             "graveyard labyrinth"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "graveyard labyrinth medium",
@@ -4877,9 +4191,7 @@
         "requires": [
             "graveyard labyrinth"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "graveyard labyrinth hard",
@@ -4891,9 +4203,7 @@
         "requires": [
             "graveyard labyrinth"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "rise of the union easy",
@@ -4905,9 +4215,7 @@
         "requires": [
             "rise of the union"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "rise of the union medium",
@@ -4919,9 +4227,7 @@
         "requires": [
             "rise of the union"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "rise of the union hard",
@@ -4933,9 +4239,7 @@
         "requires": [
             "rise of the union"
         ],
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "dark domination easy",
@@ -4947,9 +4251,7 @@
             "dark domination"
         ],
         "victory": true,
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
     },
     {
         "name": "dark domination medium",
@@ -4961,9 +4263,7 @@
             "dark domination"
         ],
         "victory": true,
-        "region": [
-            "kh 3"
-        ]
+        "region": "kh 3"
 
     },
     {
