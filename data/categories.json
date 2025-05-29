@@ -1,0 +1,74 @@
+{
+    "easy difficulty": 
+    {
+        "yaml_option": [
+            "easy difficulty"
+        ]
+    },
+    "medium difficulty":
+    {
+        "yaml_option": [
+            "medium difficulty"
+        ]
+    },
+    "hard difficulty":
+    {
+        "yaml_option": [
+            "hard difficulty"
+        ]
+    },
+    "kh 0.2":
+    {
+        "yaml_option": [
+            "kh 0.2"
+        ]
+    },
+    "kh 1":
+    {
+        "yaml_option": [
+            "kh 1"
+        ]
+    },
+    "kh recom":
+    {
+        "yaml_option": [
+            "kh recom"
+        ]
+    },
+    "kh 2":
+    {
+        "yaml_option": [
+            "kh 2"
+        ]
+    },
+    "kh 358":
+    {
+        "yaml_option": [
+            "kh 358"
+        ]
+    },
+    "kh recoded":
+    {
+        "yaml_option": [
+            "kh recoded"
+        ]
+    },
+    "kh ddd":
+    {
+        "yaml_option": [
+            "kh ddd"
+        ]
+    },
+    "kh bbs":
+    {
+        "yaml_option": [
+            "kh bbs"
+        ]
+    },
+    "kh 3":
+    {
+        "yaml_option": [
+            "kh 3"
+        ]
+    }
+}
