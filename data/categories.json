@@ -1,50 +1,50 @@
 {
     "easy difficulty": 
     {
-        "yaml_option": "easy_difficulty"
+        "yaml_option": ["easy_difficulty"]
     },
     "medium difficulty":
     {
-        "yaml_option": "medium_difficulty"
+        "yaml_option": ["medium_difficulty"]
     },
     "hard difficulty":
     {
-        "yaml_option": "hard_difficulty"
+        "yaml_option": ["hard_difficulty"]
     },
     "kh 0.2":
     {
-        "yaml_option": "kh_0.2"
+        "yaml_option": ["kh_0.2"]
     },
     "kh 1":
     {
-        "yaml_option": "kh_1"
+        "yaml_option": ["kh_1"]
     },
     "kh recom":
     {
-        "yaml_option": "kh_recom"
+        "yaml_option": ["kh_recom"]
     },
     "kh 2":
     {
-        "yaml_option": "kh_2"
+        "yaml_option": ["kh_2"]
     },
     "kh 358":
     {
-        "yaml_option": "kh_358"
+        "yaml_option": ["kh_358"]
     },
     "kh recoded":
     {
-        "yaml_option": "kh_recoded"
+        "yaml_option": ["kh_recoded"]
     },
     "kh ddd":
     {
-        "yaml_option": "kh_ddd"
+        "yaml_option": ["kh_ddd"]
     },
     "kh bbs":
     {
-        "yaml_option": "kh_bbs"
+        "yaml_option": ["kh_bbs"]
     },
     "kh 3":
     {
-        "yaml_option": "kh_3"
+        "yaml_option": ["kh_3"]
     }
 }
