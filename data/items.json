@@ -1,11 +1,5 @@
 [
   {
-    "name": "usable item",
-    "category": [],
-    "count": 1,
-    "filler": true
-  },
-  {
     "name": "kh fragment",
     "category": [
       "game"
