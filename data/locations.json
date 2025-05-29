@@ -621,7 +621,7 @@
     "region": "kh 1"
   },
   {
-    "name": "scherzo di notte easy",
+    "name": "scherzo di notte kh1 easy",
     "category": [
       "easy difficulty",
       "kh 1"
@@ -630,7 +630,7 @@
     "region": "kh 1"
   },
   {
-    "name": "scherzo di notte medium",
+    "name": "scherzo di notte kh1 medium",
     "category": [
       "medium difficulty",
       "kh 1"
@@ -639,7 +639,7 @@
     "region": "kh 1"
   },
   {
-    "name": "scherzo di notte hard",
+    "name": "scherzo di notte kh1 hard",
     "category": [
       "hard difficulty",
       "kh 1"
@@ -1485,7 +1485,7 @@
     "region": "kh 2"
   },
   {
-    "name": "scherzo di notte easy",
+    "name": "scherzo di notte kh2 easy",
     "category": [
       "easy difficulty",
       "kh 2"
@@ -1494,7 +1494,7 @@
     "region": "kh 2"
   },
   {
-    "name": "scherzo di notte medium",
+    "name": "scherzo di notte kh2 medium",
     "category": [
       "medium difficulty",
       "kh 2"
@@ -1503,7 +1503,7 @@
     "region": "kh 2"
   },
   {
-    "name": "scherzo di notte hard",
+    "name": "scherzo di notte kh2 hard",
     "category": [
       "hard difficulty",
       "kh 2"
