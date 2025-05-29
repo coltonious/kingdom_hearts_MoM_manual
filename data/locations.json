@@ -3897,34 +3897,35 @@
         "name": "dark domination easy",
         "category": [
             "melody of memory's end",
-            "easy",
-            "kh3"
+            "easy"
         ],
         "requires": [
             "dark domination"
-        ]
+        ],
+        "victory": true
     },
     {
         "name": "dark domination medium",
         "category": [
             "melody of memory's end",
-            "medium",
-            "kh3"
+            "medium"
         ],
         "requires": [
             "dark domination"
-        ]
+        ],
+        "victory": true
+
     },
     {
         "name": "dark domination hard",
         "category": [
             "melody of memory's end",
-            "hard",
-            "kh3"
+            "hard"
         ],
         "requires": [
             "dark domination"
-        ]
+        ],
+        "victory": true
     }
 
 ]
