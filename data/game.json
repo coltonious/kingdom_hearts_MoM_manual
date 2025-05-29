@@ -2,6 +2,6 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "kingdom_hearts_mom",
   "creator": "coltonious",
-  "filler_item_name": "Filler",
+  "filler_item_name": "usable item",
   "starting_items": []
 }
