@@ -6,47 +6,47 @@
     },
     {
         "name": "kh 0.2",
-        "category": "game",
+        "category": ["game"],
         "progression": true
     },
     {
         "name": "kh 1",
-        "category": "game",
+        "category": ["game"],
         "progression": true
     },
     {
         "name": "kh recom",
-        "category": "game",
+        "category": ["game"],
         "progression": true
     },
     {
         "name": "kh 2",
-        "category": "game",
+        "category": ["game"],
         "progression": true
     },
     {
         "name": "kh 358",
-        "category": "game",
+        "category": ["game"],
         "progression": true
     },
     {
         "name": "kh recoded",
-        "category": "game",
+        "category": ["game"],
         "progression": true
     },
     {
         "name": "kh ddd",
-        "category": "game",
+        "category": ["game"],
         "progression": true
     },
     {
         "name": "kh bbs",
-        "category": "game",
+        "category": ["game"],
         "progression": true
     },
     {
         "name": "kh 3",
-        "category": "game",
+        "category": ["game"],
         "progression": true
     }
     
