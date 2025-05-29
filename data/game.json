@@ -3,5 +3,10 @@
   "game": "kingdomheartsMoM",
   "creator": "coltonious",
   "filler_item_name": "usable item",
-  "starting_items": []
+  "starting_items": [
+    {
+      "items": ["kh 1", "kh 2", "kh ddd", "kh bbs"],
+      "random": 1
+    }
+  ]
 }
