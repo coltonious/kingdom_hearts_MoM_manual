@@ -2372,7 +2372,7 @@
       "hard difficulty",
       "kh bbs"
     ],
-    "requires": "future masters",
+    "requires": "|kh bbs|",
     "region": "kh bbs"
   },
   {
