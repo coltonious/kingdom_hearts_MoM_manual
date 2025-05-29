@@ -1,47 +1,47 @@
 {
-    "kh 0.2": {
-      "starting": true,
-      "connects_to": [],
-      "requires": "kh 0.2"
-    },
-    "kh 1": {
-      "starting": true,
-      "connects_to": [],
-      "requires": "kh 1"
-    },
-    "kh recom": {
-      "starting": true,
-      "connects_to": [],
-      "requires": "kh recom"
-    },
-    "kh 2": {
-      "starting": true,
-      "connects_to": [],
-      "requires": "kh 2"
-    },
-    "kh 358": {
-      "starting": true,
-      "connects_to": [],
-      "requires": "kh 358"
-    },
-    "kh recoded": {
-      "starting": true,
-      "connects_to": [],
-      "requires": "kh recoded"
-    },
-    "kh ddd": {
-      "starting": true,
-      "connects_to": [],
-      "requires": "kh ddd"
-    },
-    "kh bbs": {
-      "starting": true,
-      "connects_to": [],
-      "requires": "kh bbs"
-    },
-    "kh 3": {
-      "starting": true,
-      "connects_to": [],
-      "requires": "kh 3"
-    }
+  "kh 0.2": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "kh 0.2"
+  },
+  "kh 1": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "kh 1"
+  },
+  "kh recom": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "kh recom"
+  },
+  "kh 2": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "kh 2"
+  },
+  "kh 358": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "kh 358"
+  },
+  "kh recoded": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "kh recoded"
+  },
+  "kh ddd": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "kh ddd"
+  },
+  "kh bbs": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "kh bbs"
+  },
+  "kh 3": {
+    "starting": true,
+    "connects_to": [],
+    "requires": "kh 3"
   }
+}

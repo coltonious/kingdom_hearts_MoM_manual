@@ -1,54 +1,80 @@
 [
-    {
-        "name": "usable item",
-        "category": [],
-        "filler": true
-    },
-    {
-        "name": "kh 0.2",
-        "category": ["game"],
-        "progression": true
-    },
-    {
-        "name": "kh 1",
-        "category": ["game"],
-        "progression": true
-    },
-    {
-        "name": "kh recom",
-        "category": ["game"],
-        "progression": true
-    },
-    {
-        "name": "kh 2",
-        "category": ["game"],
-        "progression": true
-    },
-    {
-        "name": "kh 358",
-        "category": ["game"],
-        "progression": true
-    },
-    {
-        "name": "kh recoded",
-        "category": ["game"],
-        "progression": true
-    },
-    {
-        "name": "kh ddd",
-        "category": ["game"],
-        "progression": true
-    },
-    {
-        "name": "kh bbs",
-        "category": ["game"],
-        "progression": true
-    },
-    {
-        "name": "kh 3",
-        "category": ["game"],
-        "progression": true
-    }
-    
-
+  {
+    "name": "usable item",
+    "category": [],
+    "count": 1,
+    "filler": true
+  },
+  {
+    "name": "kh 0.2",
+    "category": [
+      "game"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "kh 1",
+    "category": [
+      "game"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "kh recom",
+    "category": [
+      "game"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "kh 2",
+    "category": [
+      "game"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "kh 358",
+    "category": [
+      "game"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "kh recoded",
+    "category": [
+      "game"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "kh ddd",
+    "category": [
+      "game"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "kh bbs",
+    "category": [
+      "game"
+    ],
+    "count": 1,
+    "progression": true
+  },
+  {
+    "name": "kh 3",
+    "category": [
+      "game"
+    ],
+    "count": 1,
+    "progression": true
+  }
 ]

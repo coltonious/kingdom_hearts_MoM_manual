@@ -5,7 +5,12 @@
   "filler_item_name": "usable item",
   "starting_items": [
     {
-      "items": ["kh 1", "kh 2", "kh ddd", "kh bbs"],
+      "items": [
+        "kh 1",
+        "kh 2",
+        "kh ddd",
+        "kh bbs"
+      ],
       "random": 1
     }
   ]
