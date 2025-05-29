@@ -3,28 +3,28 @@
         "name": "wave of darkness easy",
         "category": [
             "easy difficulty",
-            "kh 0.2"
+            "kh fragment"
         ],
-        "requires": "|kh 0.2|",
-        "region": "kh 0.2"
+        "requires": "|kh fragment|",
+        "region": "kh fragment"
     },
     {
         "name": "wave of darkness medium",
         "category": [
             "medium difficulty",
-            "kh 0.2"
+            "kh fragment"
         ],
-        "requires": "|kh 0.2|",
-        "region": "kh 0.2"
+        "requires": "|kh fragment|",
+        "region": "kh fragment"
     },
     {
         "name": "wave of darkness hard",
         "category": [
             "hard difficulty",
-            "kh 0.2"
+            "kh fragment"
         ],
-        "requires": "|kh 0.2|",
-        "region": "kh 0.2"
+        "requires": "|kh fragment|",
+        "region": "kh fragment"
     },
     {
         "name": "destiny islands easy",
