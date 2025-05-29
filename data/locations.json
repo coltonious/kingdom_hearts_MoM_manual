@@ -5,7 +5,7 @@
             "easy difficulty",
             "kh 0.2"
         ],
-        "requires": "|kh 0.2|",
+        "requires": "kh 0.2",
         "region": "kh 0.2"
     },
     {
@@ -14,7 +14,7 @@
             "medium difficulty",
             "kh 0.2"
         ],
-        "requires": "|kh 0.2|",
+        "requires": "kh 0.2",
         "region": "kh 0.2"
     },
     {
@@ -23,7 +23,7 @@
             "hard difficulty",
             "kh 0.2"
         ],
-        "requires": "|kh 0.2|",
+        "requires": "kh 0.2",
         "region": "kh 0.2"
     },
     {
@@ -33,7 +33,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -44,7 +44,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -55,7 +55,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -66,7 +66,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -77,7 +77,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -88,7 +88,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -99,7 +99,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -110,7 +110,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -121,7 +121,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -132,7 +132,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -143,7 +143,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -154,7 +154,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -165,7 +165,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -176,7 +176,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -187,7 +187,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -198,7 +198,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -209,7 +209,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -220,7 +220,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -231,7 +231,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -242,7 +242,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -253,7 +253,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -264,7 +264,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -275,7 +275,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -286,7 +286,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -297,7 +297,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -308,7 +308,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -319,7 +319,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -330,7 +330,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -341,7 +341,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -352,7 +352,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -363,7 +363,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -374,7 +374,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -385,7 +385,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -396,7 +396,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -407,7 +407,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         "region": "kh 1"
     },
     {
@@ -417,7 +417,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -428,7 +428,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -439,7 +439,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -450,7 +450,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -461,7 +461,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -472,7 +472,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -483,7 +483,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -494,7 +494,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -505,7 +505,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -516,7 +516,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -527,7 +527,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -538,7 +538,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -549,7 +549,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -560,7 +560,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -571,7 +571,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -582,7 +582,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -593,7 +593,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -604,7 +604,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -615,7 +615,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -626,7 +626,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -637,7 +637,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -648,7 +648,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -659,7 +659,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -670,7 +670,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -681,7 +681,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -692,7 +692,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -703,7 +703,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -714,7 +714,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -725,7 +725,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -736,7 +736,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -747,7 +747,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -758,7 +758,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -769,7 +769,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -780,7 +780,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -791,7 +791,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -802,7 +802,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -813,7 +813,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -824,7 +824,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -835,7 +835,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -846,7 +846,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -857,7 +857,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -868,7 +868,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -879,7 +879,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -890,7 +890,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -901,7 +901,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -912,7 +912,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -923,7 +923,7 @@
             "easy difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -934,7 +934,7 @@
             "medium difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -945,7 +945,7 @@
             "hard difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -956,7 +956,7 @@
             "easy difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -967,7 +967,7 @@
             "medium difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -978,7 +978,7 @@
             "hard difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -989,7 +989,7 @@
             "easy difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -1000,7 +1000,7 @@
             "medium difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -1011,7 +1011,7 @@
             "hard difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -1022,7 +1022,7 @@
             "easy difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -1033,7 +1033,7 @@
             "medium difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -1044,7 +1044,7 @@
             "hard difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -1055,7 +1055,7 @@
             "easy difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -1066,7 +1066,7 @@
             "medium difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -1077,7 +1077,7 @@
             "hard difficulty",
             "kh recom"
         ],
-        "requires": "|kh recom|",
+        "requires": "kh recom",
         
         "region": "kh recom"
     },
@@ -1088,7 +1088,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1099,7 +1099,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1110,7 +1110,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1121,7 +1121,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1132,7 +1132,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1143,7 +1143,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1154,7 +1154,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1165,7 +1165,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1176,7 +1176,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1187,7 +1187,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1198,7 +1198,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1209,7 +1209,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1220,7 +1220,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1231,7 +1231,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1242,7 +1242,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1265,7 +1265,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1276,7 +1276,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1287,7 +1287,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1298,7 +1298,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1309,7 +1309,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1320,7 +1320,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1331,7 +1331,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1342,7 +1342,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1353,7 +1353,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1364,7 +1364,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1375,7 +1375,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1386,7 +1386,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1397,7 +1397,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1408,7 +1408,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1419,7 +1419,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1430,7 +1430,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1441,7 +1441,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1452,7 +1452,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1463,7 +1463,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1474,7 +1474,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1485,7 +1485,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1496,7 +1496,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1507,7 +1507,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1518,7 +1518,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1529,7 +1529,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1540,7 +1540,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1551,7 +1551,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1562,7 +1562,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1573,7 +1573,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1584,7 +1584,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1595,7 +1595,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1606,7 +1606,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1617,7 +1617,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1628,7 +1628,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1639,7 +1639,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1650,7 +1650,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1661,7 +1661,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1672,7 +1672,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1683,7 +1683,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1694,7 +1694,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1705,7 +1705,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1716,7 +1716,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1727,7 +1727,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1738,7 +1738,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1749,7 +1749,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1760,7 +1760,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1771,7 +1771,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1782,7 +1782,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1793,7 +1793,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1804,7 +1804,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1815,7 +1815,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1826,7 +1826,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1837,7 +1837,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1848,7 +1848,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1859,7 +1859,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1870,7 +1870,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1881,7 +1881,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1892,7 +1892,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1903,7 +1903,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1914,7 +1914,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1925,7 +1925,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1936,7 +1936,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1947,7 +1947,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1958,7 +1958,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1969,7 +1969,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1980,7 +1980,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -1991,7 +1991,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -2002,7 +2002,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -2012,7 +2012,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -2022,7 +2022,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -2032,7 +2032,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -2043,7 +2043,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -2054,7 +2054,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -2065,7 +2065,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -2076,7 +2076,7 @@
             "easy difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2087,7 +2087,7 @@
             "medium difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2098,7 +2098,7 @@
             "hard difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2109,7 +2109,7 @@
             "easy difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2120,7 +2120,7 @@
             "medium difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2131,7 +2131,7 @@
             "hard difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2142,7 +2142,7 @@
             "easy difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2153,7 +2153,7 @@
             "medium difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2164,7 +2164,7 @@
             "hard difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2175,7 +2175,7 @@
             "easy difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2186,7 +2186,7 @@
             "medium difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2197,7 +2197,7 @@
             "hard difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2208,7 +2208,7 @@
             "easy difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2219,7 +2219,7 @@
             "medium difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2230,7 +2230,7 @@
             "hard difficulty",
             "kh 358"
         ],
-        "requires": "|kh 358|",
+        "requires": "kh 358",
         
         "region": "kh 358"
     },
@@ -2241,7 +2241,7 @@
             "easy difficulty",
             "kh recoded"
         ],
-        "requires": "|kh recoded|",
+        "requires": "kh recoded",
         
         "region": "kh recoded"
     },
@@ -2252,7 +2252,7 @@
             "medium difficulty",
             "kh recoded"
         ],
-        "requires": "|kh recoded|",
+        "requires": "kh recoded",
         
         "region": "kh recoded"
     },
@@ -2263,7 +2263,7 @@
             "hard difficulty",
             "kh recoded"
         ],
-        "requires": "|kh recoded|",
+        "requires": "kh recoded",
         
         "region": "kh recoded"
     },
@@ -2274,7 +2274,7 @@
             "easy difficulty",
             "kh recoded"
         ],
-        "requires": "|kh recoded|",
+        "requires": "kh recoded",
         
         "region": "kh recoded"
     },
@@ -2285,7 +2285,7 @@
             "medium difficulty",
             "kh recoded"
         ],
-        "requires": "|kh recoded|",
+        "requires": "kh recoded",
         
         "region": "kh recoded"
     },
@@ -2296,7 +2296,7 @@
             "hard difficulty",
             "kh recoded"
         ],
-        "requires": "|kh recoded|",
+        "requires": "kh recoded",
         
         "region": "kh recoded"
     },
@@ -2307,7 +2307,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2318,7 +2318,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2329,7 +2329,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2340,7 +2340,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2351,7 +2351,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2362,7 +2362,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2373,7 +2373,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2384,7 +2384,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2395,7 +2395,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2406,7 +2406,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2417,7 +2417,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2428,7 +2428,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2439,7 +2439,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2450,7 +2450,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2461,7 +2461,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2472,7 +2472,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2483,7 +2483,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2494,7 +2494,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2505,7 +2505,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2516,7 +2516,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2527,7 +2527,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2538,7 +2538,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2549,7 +2549,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2560,7 +2560,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2571,7 +2571,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2582,7 +2582,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2605,7 +2605,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2616,7 +2616,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2627,7 +2627,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2638,7 +2638,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2649,7 +2649,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2660,7 +2660,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2671,7 +2671,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2682,7 +2682,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2693,7 +2693,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2704,7 +2704,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2715,7 +2715,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2726,7 +2726,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2737,7 +2737,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2748,7 +2748,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2759,7 +2759,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2770,7 +2770,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2781,7 +2781,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2792,7 +2792,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2803,7 +2803,7 @@
             "easy difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2814,7 +2814,7 @@
             "medium difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2825,7 +2825,7 @@
             "hard difficulty",
             "kh ddd"
         ],
-        "requires": "|kh ddd|",
+        "requires": "kh ddd",
         
         "region": "kh ddd"
     },
@@ -2836,7 +2836,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2847,7 +2847,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2858,7 +2858,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2869,7 +2869,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2880,7 +2880,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2902,7 +2902,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2913,7 +2913,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2924,7 +2924,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2935,7 +2935,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2946,7 +2946,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2957,7 +2957,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2968,7 +2968,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2979,7 +2979,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -2990,7 +2990,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3001,7 +3001,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3012,7 +3012,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3023,7 +3023,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3034,7 +3034,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3045,7 +3045,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3056,7 +3056,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3067,7 +3067,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3078,7 +3078,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3089,7 +3089,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3100,7 +3100,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3111,7 +3111,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3122,7 +3122,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3133,7 +3133,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3144,7 +3144,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3155,7 +3155,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3166,7 +3166,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3177,7 +3177,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3188,7 +3188,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3199,7 +3199,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3210,7 +3210,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3221,7 +3221,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3232,7 +3232,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3243,7 +3243,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3254,7 +3254,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3265,7 +3265,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3276,7 +3276,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3287,7 +3287,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3298,7 +3298,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3309,7 +3309,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3320,7 +3320,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3331,7 +3331,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3342,7 +3342,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3353,7 +3353,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3364,7 +3364,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3375,7 +3375,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3386,7 +3386,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3397,7 +3397,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3408,7 +3408,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3419,7 +3419,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3430,7 +3430,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3441,7 +3441,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3452,7 +3452,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3463,7 +3463,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3474,7 +3474,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3485,7 +3485,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3496,7 +3496,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3507,7 +3507,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3518,7 +3518,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3529,7 +3529,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3540,7 +3540,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3551,7 +3551,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3562,7 +3562,7 @@
             "easy difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -3573,7 +3573,7 @@
             "medium difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -3584,7 +3584,7 @@
             "hard difficulty",
             "kh 1"
         ],
-        "requires": "|kh 1|",
+        "requires": "kh 1",
         
         "region": "kh 1"
     },
@@ -3595,7 +3595,7 @@
             "easy difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -3606,7 +3606,7 @@
             "medium difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -3617,7 +3617,7 @@
             "hard difficulty",
             "kh 2"
         ],
-        "requires": "|kh 2|",
+        "requires": "kh 2",
         
         "region": "kh 2"
     },
@@ -3628,7 +3628,7 @@
             "easy difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3639,7 +3639,7 @@
             "medium difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3650,7 +3650,7 @@
             "hard difficulty",
             "kh bbs"
         ],
-        "requires": "|kh bbs|",
+        "requires": "kh bbs",
         
         "region": "kh bbs"
     },
@@ -3661,7 +3661,7 @@
             "easy difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3672,7 +3672,7 @@
             "medium difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3683,7 +3683,7 @@
             "hard difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3694,7 +3694,7 @@
             "easy difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3705,7 +3705,7 @@
             "medium difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3716,7 +3716,7 @@
             "hard difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3727,7 +3727,7 @@
             "easy difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3749,7 +3749,7 @@
             "hard difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3760,7 +3760,7 @@
             "easy difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3771,7 +3771,7 @@
             "medium difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3782,7 +3782,7 @@
             "hard difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3793,7 +3793,7 @@
             "easy difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3804,7 +3804,7 @@
             "medium difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3815,7 +3815,7 @@
             "hard difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3826,7 +3826,7 @@
             "easy difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3837,7 +3837,7 @@
             "medium difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3848,7 +3848,7 @@
             "hard difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3859,7 +3859,7 @@
             "easy difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3870,7 +3870,7 @@
             "medium difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3881,7 +3881,7 @@
             "hard difficulty",
             "kh3"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "region": "kh 3"
     },
@@ -3891,7 +3891,7 @@
             
             "easy difficulty"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "victory": true,
         "region": "kh 3"
@@ -3902,7 +3902,7 @@
             
             "medium difficulty"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "victory": true,
         "region": "kh 3"
@@ -3914,7 +3914,7 @@
             
             "hard difficulty"
         ],
-        "requires": "|kh 3|",
+        "requires": "kh 3",
         
         "victory": true,
         "region": "kh 3"
