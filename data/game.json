@@ -5,13 +5,20 @@
   "filler_item_name": "usable item",
   "starting_items": [
     {
-      "items": [
-        "kh 1",
-        "kh 2",
-        "kh ddd",
-        "kh bbs"
-      ],
-      "random": 1
+      "items": ["kh 1"],
+      "yaml_option": ["start_with_kh_1"]
+    },
+    {
+      "items": ["kh 2"],
+      "yaml_option": ["start_with_kh_2"]
+    },
+    {
+      "items": ["kh bbs"],
+      "yaml_option": ["start_with_kh_bbs"]
+    },
+    {
+      "items": ["kh ddd"],
+      "yaml_option": ["start_with_kh_ddd"]
     }
   ]
 }
