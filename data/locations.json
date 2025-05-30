@@ -3187,27 +3187,21 @@
   },
   {
     "name": "dark domination easy",
-    "category": [
-      "easy difficulty"
-    ],
+    "category": [],
     "requires": "|kh 3|",
     "victory": true,
     "region": "kh 3"
   },
   {
     "name": "dark domination medium",
-    "category": [
-      "medium difficulty"
-    ],
+    "category": [],
     "requires": "|kh 3|",
     "victory": true,
     "region": "kh 3"
   },
   {
     "name": "dark domination hard",
-    "category": [
-      "hard difficulty"
-    ],
+    "category": [],
     "requires": "|kh 3|",
     "victory": true,
     "region": "kh 3"
